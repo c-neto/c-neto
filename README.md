@@ -1,4 +1,4 @@
-# Carlos Neto | carlos.santos110@fatec.sp.gov.br :rocket:	
+# Carlos Neto :rocket: | carlos.santos110@fatec.sp.gov.br :email:
 
 Atua no cargo de Programador Júnior Nível 2 na empresa Fotosensores Tecnologia LTDA. Suas principais atividades são: 
 
@@ -60,5 +60,5 @@ Sistema de monitoramento de equipamentos fiscalizadores de trânsito, que exibe 
 
 ## Leituras :open_book:
 
-- O Guia do Mochileiro Python: Melhores práticas para desenvolvimento - Tanya Schlusser, Kenneth Reitz
-- Python Fluente: Programação Clara, Concisa e Eficaz - Luciano Ramalho
+- [Python Fluente: Programação Clara, Concisa e Eficaz - Luciano Ramalho](https://www.amazon.com.br/Python-Fluente-Programa%C3%A7%C3%A3o-Concisa-Eficaz/dp/857522462X#:~:text=O%20autor%20Luciano%20Ramalho%20apresenta,mais%20leg%C3%ADvel%20ao%20mesmo%20tempo.)
+- [O Guia do Mochileiro Python: Melhores práticas para desenvolvimento - Tanya Schlusser, Kenneth Reitz](https://www.amazon.com.br/Guia-Mochileiro-Python-Melhores-desenvolvimento-ebook/dp/B07QMY2VPL)
