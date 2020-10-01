@@ -33,7 +33,7 @@ Atua no cargo de Programador Júnior Nível 2 na empresa Fotosensores Tecnologia
 
 ## Formação :man_student:	
 
-- __Data:__ 15/06/2018;
+- __Ano:__ 2018;
 - __Institução:__ FATEC São José dos Campos - Prof. Jessen Vidal;
 - __Graduação:__ Análise e Desenvolvimento de Sistemas;
 - __Trabalho de Graduação:__ :video_camera:	:rotating_light: :vertical_traffic_light:	
