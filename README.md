@@ -1,4 +1,4 @@
-# Carlos Neto | carlos.santos110@fatec.sp.gov.br
+# Carlos Neto | carlos.santos110@fatec.sp.gov.br :rocket:	
 
 Atua no cargo de Programador Júnior Nível 2 na empresa Fotosensores Tecnologia LTDA. Suas principais atividades são: 
 
