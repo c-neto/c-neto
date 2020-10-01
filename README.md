@@ -6,7 +6,8 @@ Atua no cargo de Programador Júnior Nível 2 na empresa Fotosensores Tecnologia
 - Desenvolvimento com a linguagem Python;
 - Criação de rotinas de integração contínua;
 - Integrações de sistemas;
-- Empacotamento de RPM e bibliotecas Python;
+- Empacotamento de aplicações para formato RPM;
+- Empacotamento de bibliotecas Python;
 - Criação e otimização de images Docker;
 - Monitoramento de sistemas;
 - Documentação (Software e Operacional).
