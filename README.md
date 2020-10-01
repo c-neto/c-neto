@@ -38,7 +38,7 @@ Atua no cargo de Programador Júnior Nível 2 na empresa Fotosensores Tecnologia
 - __Graduação:__ Análise e Desenvolvimento de Sistemas;
 - __Trabalho de Graduação:__ :video_camera:	:rotating_light: :vertical_traffic_light:	
   - __Título:__ Mapbix, Sistema de Monitoramento de Equipamentos Fiscalizadores de Trânsito;
-Sistema de monitoramento de equipamentos fiscalizadores de trânsito, que exibe em tempo real, os dados de monitoramento de uma rede de mais de 200 equipamentos. O projeto recebeu 9.7 como nota final pela banca avaliadora, e atua em produção na empresa, com nível de aceitação elevado de seus usuários e impacto direto na manutenabilidade da rede;
+  - __Sobre:__ Sistema de monitoramento de equipamentos fiscalizadores de trânsito, que exibe em tempo real, os dados de monitoramento de uma rede de mais de 200 equipamentos. O projeto recebeu 9.7 como nota final pela banca avaliadora, e atua em produção na empresa, com nível de aceitação elevado de seus usuários e impacto direto na manutenabilidade da rede;
 - __Link para o Código Fonte:__ Código Proprietário :no_entry_sign:.
 
 --- 
