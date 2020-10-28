@@ -22,14 +22,11 @@ Atua no cargo de Programador Júnior Nível 2 na empresa Fotosensores Tecnologia
 
 ## Interesses e Estudos Atuais :man_technologist:
 
-- Microserviços;
-- SOA;
-- DDD;
-- CQRS;
-- Arquitetura Hexagonal;
 - Python;
-- Java (Spring Framework);
-- Elixir.
+- Design Patterns;
+- Arquitetura de Software;
+- Microserviços.
+
 
 ## Formação :man_student:	
 
