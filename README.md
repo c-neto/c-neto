@@ -17,9 +17,7 @@ Atua no cargo de Programador Júnior Nível 2 na empresa Fotosensores Tecnologia
 - Python :snake:;
 - Docker :whale2:;
 - Grafana :bar_chart:;
-- GNU/Linux :penguin: :tophat::
-  - Fedora;
-  - CentOS.
+- GNU/Linux :penguin: :tophat: (Fedora/CentOS).
 
 ## Interesses e Estudos Atuais :man_technologist:
 
