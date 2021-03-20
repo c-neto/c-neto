@@ -1,26 +1,4 @@
-# Carlos Neto :rocket:
-
-<p align="center">
-
-  <a href="https://github.com/augustoliks/cv-latex/blob/main/cv_carlos_neto_dev.pdf" target="_blank">
-    <img alt="linkedin" src="https://img.shields.io/badge/Curriculum Vitae-0077B5?style=for-the-badge&logoColor=green">
-  </a>
-
-  <a href="mailto:carlos.neto.dev@gmail.com" target="_blank">
-    <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  
-  <a href="https://t.me/augusto_liks" target="_blank">
-    <img alt="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-  
-  <a href="https://www.linkedin.com/in/carlos-neto-15494213b/" target="_blank">
-    <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-
-</p>
-
-[**Clique Aqui**](https://github.com/augustoliks/cv-latex/blob/main/cv_carlos_neto_dev.pdf) para acessar meu Currículo.
+# Carlos Neto :rocket: | <p align="right"> <a href="https://github.com/augustoliks/cv-latex/blob/main/cv_carlos_neto_dev.pdf" target="_blank"> <img alt="linkedin" src="https://img.shields.io/badge/Curriculum Vitae-0077B5?style=for-the-badge&logoColor=green"> </a> <a href="mailto:carlos.neto.dev@gmail.com" target="_blank"> <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://t.me/augusto_liks" target="_blank"> <img alt="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> </a> <a href="https://www.linkedin.com/in/carlos-neto-15494213b/" target="_blank"> <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> </p>
 
 ---
 
