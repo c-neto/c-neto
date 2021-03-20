@@ -21,14 +21,14 @@ Atua no cargo de Programador Júnior Nível 2 na empresa Fotosensores LTDA. Suas
 ## Especialidades :nerd_face:	
 
 - Python :snake:;
-- NGINX;
+- NGINX :on:;
 - Docker :whale2:;
 - GNU/Linux :penguin: :tophat: (Fedora/CentOS).
 
 ## Interesses e Estudos Atuais :man_technologist:
 
-- Python;
 - Programação Funcional;
+- IaC;
 - DevOps.
 
 ## Formação :man_student:	
