@@ -29,7 +29,7 @@ Atua no cargo de Programador Júnior Nível 2 na empresa Fotosensores LTDA. Suas
 
 ## Formação :man_student:	
 
-- __Ano:__ 2018;
+- __Ano de Conclusão:__ 2018;
 - __Institução:__ FATEC São José dos Campos - Prof. Jessen Vidal;
 - __Graduação:__ Análise e Desenvolvimento de Sistemas;
 - __Trabalho de Graduação:__ :video_camera:	:rotating_light: :vertical_traffic_light:	
@@ -39,7 +39,7 @@ Atua no cargo de Programador Júnior Nível 2 na empresa Fotosensores LTDA. Suas
 
 --- 
 
-- __Ano:__ 2017
+- __Ano de Conclusão:__ 2017
 - __Institução:__ Trabalho de Conclusão de Curso Técnico de Redes de Computadores, pela ETEC Cônego José Bento.
 - __Trabalho de Conclusão de Curso:__ :house:	:calling:
   - __Título:__ Sistema De Automação Residencial Integrado A Rede;
@@ -48,7 +48,7 @@ Atua no cargo de Programador Júnior Nível 2 na empresa Fotosensores LTDA. Suas
 
 ---
 
-- __Ano__: 2015
+- __Ano de Conclusão__: 2015
 - __Institução:__ ITJ - Instituto de Tecnologia de Jacareí;
 - __Trabalho de Conclusão de Curso:__ :red_square: :blue_square: :green_square:	
   - __Título:__ Esteira Seletora por Cores; 
