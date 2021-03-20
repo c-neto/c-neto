@@ -29,31 +29,33 @@ Atua no cargo de Programador Júnior Nível 2 na empresa Fotosensores LTDA. Suas
 
 ## Formação :man_student:	
 
-- __Ano de Conclusão:__ 2018;
+- __Curso:__ Tecnólogo em Análise e Desenvolvimento de Sistemas;
 - __Institução:__ FATEC São José dos Campos - Prof. Jessen Vidal;
-- __Graduação:__ Análise e Desenvolvimento de Sistemas;
+- __Concluído em:__ 2018;
 - __Trabalho de Graduação:__ :video_camera:	:rotating_light: :vertical_traffic_light:	
   - __Título:__ Mapbix, Sistema de Monitoramento de Equipamentos Fiscalizadores de Trânsito;
   - __Resumo:__ Sistema de monitoramento de equipamentos fiscalizadores de trânsito, que exibe em tempo real, os dados de monitoramento de uma rede de mais de 200 equipamentos. O projeto recebeu 9.7 como nota final pela banca avaliadora. Atua em ambiente empresarial, com nível de aceitação elevado de seus usuários e com colaboaração direta na manutenabilidade da rede;
-- __Link para o Código Fonte:__ Código Proprietário :no_entry_sign:.
+- __Link para o Projeto:__ Código Proprietário :no_entry_sign:.
 
 --- 
 
-- __Ano de Conclusão:__ 2017
-- __Institução:__ Trabalho de Conclusão de Curso Técnico de Redes de Computadores, pela ETEC Cônego José Bento.
+- __Curso:__ Técnico em Redes de Computadores;
+- __Institução:__ ETEC Cônego José Bento;
+- __Concluído em:__ 2017
 - __Trabalho de Conclusão de Curso:__ :house:	:calling:
   - __Título:__ Sistema De Automação Residencial Integrado A Rede;
   - __Resumo:__  Protótipo funcional de uma automação residencial usando Arduino Uno, e uma maquete de residência. O sistema instalado na maquete, é controlada via aplicativo Android. O aplicativo é capaz de aceder e apagar luzes, abrir e fechar o portão.
-- __Link para o Código Fonte:__ https://github.com/augustoliks/Casa-Inteligente-Arduino
+- __Link para o Projeto:__ https://github.com/augustoliks/Casa-Inteligente-Arduino
 
 ---
 
-- __Ano de Conclusão__: 2015
+- __Curso:__ ITJ - Instituto de Tecnologia de Jacareí;
 - __Institução:__ ITJ - Instituto de Tecnologia de Jacareí;
+- __Concluído em__: 2015
 - __Trabalho de Conclusão de Curso:__ :red_square: :blue_square: :green_square:	
   - __Título:__ Esteira Seletora por Cores; 
   - __Resumo:__  Protótipo de uma esteira industrial, responsável por separar objetos a partir de sua cor.
-- __Link para o Código Fonte:__ https://github.com/augustoliks/esteira-seletora-por-cores
+- __Link para o Projeto:__ https://github.com/augustoliks/esteira-seletora-por-cores
 
 ## Leituras :open_book:
 
