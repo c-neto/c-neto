@@ -54,7 +54,7 @@ Atua no cargo de Programador Júnior Nível 2 na empresa Fotosensores LTDA. Suas
 - __Concluído em__: 2015
 - __Trabalho de Conclusão de Curso:__ :red_square: :blue_square: :green_square:	
   - __Título:__ Esteira Seletora por Cores; 
-  - __Resumo:__  Protótipo de uma esteira industrial, responsável por separar objetos a partir de sua cor.
+  - __Resumo:__  Protótipo de uma esteira industrial, responsável por separar objetos conforme sua cor.
 - __Link para o Projeto:__ https://github.com/augustoliks/esteira-seletora-por-cores
 
 ## Leituras :open_book:
