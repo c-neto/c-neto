@@ -1,31 +1,35 @@
 # Carlos Neto :rocket: | carlos.neto.dev@gmail.com :email:
 
-Atua no cargo de Programador Júnior Nível 2 na empresa Fotosensores Tecnologia LTDA. Suas principais atividades são: 
+[Clique aqui](https://github.com/augustoliks/cv-latex/blob/main/cv_carlos_neto_dev.pdf) para acessar meu Currículo.
 
-- Arquitetura de Software;
-- Desenvolvimento com a linguagem Python;
-- Criação de rotinas de integração contínua;
-- Integrações de sistemas;
-- Empacotamento de aplicações para formato RPM;
-- Empacotamento de bibliotecas Python;
-- Criação e otimização de images Docker;
-- Monitoramento de sistemas;
-- Documentação (Software e Operacional).
+---
+
+Atua no cargo de Programador Júnior Nível 2 na empresa Fotosensores LTDA. Suas principais atividades são: 
+
+- Desenvolvimento e testes com a linguagem Python;
+- Colaborações na criação de Arquitetura de Sistemas;
+- Criação de API com FastAPI e Flask;
+- Criação de rotinas de entrada, filtro/transformação e saída de logs;
+- Criação de bibliotecas Python;
+- Empacotamento de softwares para o formato RPM;
+- Criação e otimização de imagens Docker;
+- Automação e provisionamento de sistemas com Ansible;
+- Criação e padronização de rotinas CI/CD com o Gitlab;
+- Elaboração de Provas de Conceitos;
+- Documentação técnica com Sphinx e LaTeX.
 
 ## Especialidades :nerd_face:	
 
 - Python :snake:;
+- NGINX;
 - Docker :whale2:;
-- Grafana :bar_chart:;
 - GNU/Linux :penguin: :tophat: (Fedora/CentOS).
 
 ## Interesses e Estudos Atuais :man_technologist:
 
 - Python;
-- Design Patterns;
-- Arquitetura de Software;
-- Microserviços.
-
+- Programação Funcional;
+- DevOps.
 
 ## Formação :man_student:	
 
@@ -34,7 +38,7 @@ Atua no cargo de Programador Júnior Nível 2 na empresa Fotosensores Tecnologia
 - __Graduação:__ Análise e Desenvolvimento de Sistemas;
 - __Trabalho de Graduação:__ :video_camera:	:rotating_light: :vertical_traffic_light:	
   - __Título:__ Mapbix, Sistema de Monitoramento de Equipamentos Fiscalizadores de Trânsito;
-  - __Sobre:__ Sistema de monitoramento de equipamentos fiscalizadores de trânsito, que exibe em tempo real, os dados de monitoramento de uma rede de mais de 200 equipamentos. O projeto recebeu 9.7 como nota final pela banca avaliadora. Atua em ambiente empresarial, com nível de aceitação elevado de seus usuários e com colaboaração direta na manutenabilidade da rede;
+  - __Resumo:__ Sistema de monitoramento de equipamentos fiscalizadores de trânsito, que exibe em tempo real, os dados de monitoramento de uma rede de mais de 200 equipamentos. O projeto recebeu 9.7 como nota final pela banca avaliadora. Atua em ambiente empresarial, com nível de aceitação elevado de seus usuários e com colaboaração direta na manutenabilidade da rede;
 - __Link para o Código Fonte:__ Código Proprietário :no_entry_sign:.
 
 --- 
@@ -43,7 +47,7 @@ Atua no cargo de Programador Júnior Nível 2 na empresa Fotosensores Tecnologia
 - __Institução:__ Trabalho de Conclusão de Curso Técnico de Redes de Computadores, pela ETEC Cônego José Bento.
 - __Trabalho de Conclusão de Curso:__ :house:	:calling:
   - __Título:__ Sistema De Automação Residencial Integrado A Rede;
-  - __Sobre:__  Protótipo funcional de uma automação residencial usando Arduino Uno, e uma maquete de residência. O sistema instalado na maquete, é controlada via aplicativo Android. O aplicativo é capaz de aceder e apagar luzes, abrir e fechar o portão.
+  - __Resumo:__  Protótipo funcional de uma automação residencial usando Arduino Uno, e uma maquete de residência. O sistema instalado na maquete, é controlada via aplicativo Android. O aplicativo é capaz de aceder e apagar luzes, abrir e fechar o portão.
 - __Link para o Código Fonte:__ https://github.com/augustoliks/Casa-Inteligente-Arduino
 
 ---
@@ -52,10 +56,12 @@ Atua no cargo de Programador Júnior Nível 2 na empresa Fotosensores Tecnologia
 - __Institução:__ ITJ - Instituto de Tecnologia de Jacareí;
 - __Trabalho de Conclusão de Curso:__ :red_square: :blue_square: :green_square:	
   - __Título:__ Esteira Seletora por Cores; 
-  - __Sobre:__  Protótipo de uma esteira industrial, responsável por separar um objeto a partir de sua cor.
+  - __Resumo:__  Protótipo de uma esteira industrial, responsável por separar objetos a partir de sua cor.
 - __Link para o Código Fonte:__ https://github.com/augustoliks/esteira-seletora-por-cores
 
 ## Leituras :open_book:
 
 - [Python Fluente: Programação Clara, Concisa e Eficaz - Luciano Ramalho](https://www.amazon.com.br/Python-Fluente-Programa%C3%A7%C3%A3o-Concisa-Eficaz/dp/857522462X#:~:text=O%20autor%20Luciano%20Ramalho%20apresenta,mais%20leg%C3%ADvel%20ao%20mesmo%20tempo.)
+- [Python Cookiebook - David Beazley,
+Brian K. Jones](https://books.google.com.br/books/about/Python_Cookbook.html?id=yhfdQgq8JF4C&redir_esc=y)
 - [O Guia do Mochileiro Python: Melhores práticas para desenvolvimento - Tanya Schlusser, Kenneth Reitz](https://www.amazon.com.br/Guia-Mochileiro-Python-Melhores-desenvolvimento-ebook/dp/B07QMY2VPL)
