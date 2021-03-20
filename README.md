@@ -1,6 +1,6 @@
 # Carlos Neto :rocket: | carlos.neto.dev@gmail.com :email:
 
-[Clique aqui](https://github.com/augustoliks/cv-latex/blob/main/cv_carlos_neto_dev.pdf) para acessar meu Currículo.
+[**Clique Aqui**](https://github.com/augustoliks/cv-latex/blob/main/cv_carlos_neto_dev.pdf) para acessar meu Currículo.
 
 ---
 
