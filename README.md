@@ -64,4 +64,6 @@ Atua no cargo de Programador Júnior Nível 2 na empresa Fotosensores LTDA. Suas
 Brian K. Jones](https://books.google.com.br/books/about/Python_Cookbook.html?id=yhfdQgq8JF4C&redir_esc=y)
 - [O Guia do Mochileiro Python: Melhores práticas para desenvolvimento - Tanya Schlusser, Kenneth Reitz](https://www.amazon.com.br/Guia-Mochileiro-Python-Melhores-desenvolvimento-ebook/dp/B07QMY2VPL)
 
+---
+
 > Última Alteração: 20/03/2021
