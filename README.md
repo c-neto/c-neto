@@ -2,22 +2,20 @@
 
 Atua no cargo de Programador Júnior Nível 2 na empresa Fotosensores LTDA. Suas principais atividades são: 
 
-- Desenvolvimento e testes com a linguagem Python;
-- Colaborações na criação de Arquitetura de Sistemas;
-- Criação de API com FastAPI e Flask;
-- Criação de rotinas de entrada, filtro/transformação e saída de logs;
-- Criação de bibliotecas Python;
+- Desenvolvimento, criação de bibliotecas e testes com Python;
+- Preparação de ambientes de produção com Docker Compose, criação e otimização de imagens Docker e provisionamento com Ansible;
+- Integração de sistemas através de API com FastAPI e Flask;
+- Configuração de entrada, filtro/transformação e saída de logs com Fluent Bit, Rsyslog, Redis e Graylog;
+- Mensageria entre microserviços com RabbitMQ, Redis e ZeroMQ;
 - Empacotamento de softwares para o formato RPM;
-- Criação e otimização de imagens Docker;
-- Automação e provisionamento de sistemas com Ansible;
 - Criação e padronização de rotinas CI/CD com o Gitlab;
-- Elaboração de Provas de Conceitos;
-- Documentação técnica com Sphinx e LaTeX.
+- Documentação de código fonte e projetos com Markdown e Sphinx, com acesso via GitLab Pages;
+- Estudos técnicos com base nas regras de negócio da empresa;
+- Configuração de Proxy Reverso e ambiente Web seguro, através do NGINX com SSL/TLS.
 
 ## Especialidades :nerd_face:	
 
 - Python :snake:;
-- NGINX :on:;
 - Docker :whale2:;
 - GNU/Linux :penguin: :tophat: (Fedora/CentOS).
 
@@ -66,4 +64,4 @@ Brian K. Jones](https://books.google.com.br/books/about/Python_Cookbook.html?id=
 
 ---
 
-> Última Alteração: 20/03/2021
+> Última Alteração: 22/03/2021
