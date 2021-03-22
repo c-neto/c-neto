@@ -42,7 +42,7 @@ Atua no cargo de Programador Júnior Nível 2 na empresa Fotosensores Tecnologia
 - __Período:__ Fevereiro 2016 – Julho 2017;
 - __Trabalho de Conclusão de Curso:__ :house:	:calling:
   - __Título:__ Sistema De Automação Residencial Integrado A Rede;
-  - __Resumo:__  Protótipo funcional de uma automação residencial usando Arduino Uno, e uma maquete de residência. O sistema instalado na maquete, é controlada via aplicativo Android. O aplicativo é capaz de aceder e apagar luzes, abrir e fechar o portão.
+  - __Resumo:__  Protótipo funcional de uma automação residencial usando Arduino Uno, e uma maquete de residência. O sistema instalado na maquete, é controlada via aplicativo Android. O aplicativo é capaz de acender e apagar luzes, abrir e fechar um portão.
 - __Link para o Projeto:__ https://github.com/augustoliks/Casa-Inteligente-Arduino
 
 ---
