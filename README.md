@@ -1,6 +1,6 @@
 # Carlos Neto | <a href="https://github.com/augustoliks/cv-latex/raw/main/cv-dev-carlos-augusto-santos-neto.pdf" target="_blank"> <img alt="linkedin" src="https://img.shields.io/badge/Curriculum Vitae-0077B5?style=for-the-badge&logoColor=green"> </a> <a href="mailto:carlos.neto.dev@gmail.com" target="_blank"> <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://t.me/augusto_liks" target="_blank"> <img alt="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> </a> <a href="https://www.linkedin.com/in/c-neto/" target="_blank"> <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 
-Atua no cargo de Programador Júnior Nível 2 na empresa Fotosensores LTDA. Suas principais atividades são: 
+Atua no cargo de Programador Júnior Nível 2 na empresa Fotosensores Tecnologia Eletrônica LTDA (Mobilidade Urbana). Suas principais atividades são: 
 
 - Desenvolvimento, criação de bibliotecas e testes com Python;
 - Preparação de ambientes de produção com Docker Compose, criação e otimização de imagens Docker e provisionamento com Ansible;
