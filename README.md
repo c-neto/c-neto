@@ -29,7 +29,7 @@ Atua no cargo de Programador Júnior Nível 2 na empresa Fotosensores Tecnologia
 
 - __Curso:__ Tecnólogo em Análise e Desenvolvimento de Sistemas;
 - __Institução:__ FATEC São José dos Campos - Prof. Jessen Vidal;
-- __Concluído em:__ 2018;
+- __Período:__ Julho 2016 – Julho 2019;
 - __Trabalho de Graduação:__ :video_camera:	:rotating_light: :vertical_traffic_light:	
   - __Título:__ Mapbix, Sistema de Monitoramento de Equipamentos Fiscalizadores de Trânsito;
   - __Resumo:__ Sistema de monitoramento de equipamentos fiscalizadores de trânsito, que exibe em tempo real, os dados de monitoramento de uma rede de mais de 200 equipamentos. O projeto recebeu 9.7 como nota final pela banca avaliadora. Atua em ambiente empresarial, com nível de aceitação elevado de seus usuários e com colaboaração direta na manutenabilidade da rede;
@@ -39,7 +39,7 @@ Atua no cargo de Programador Júnior Nível 2 na empresa Fotosensores Tecnologia
 
 - __Curso:__ Técnico em Redes de Computadores;
 - __Institução:__ ETEC Cônego José Bento;
-- __Concluído em:__ 2017
+- __Período:__ Fevereiro 2016 – Julho 2017;
 - __Trabalho de Conclusão de Curso:__ :house:	:calling:
   - __Título:__ Sistema De Automação Residencial Integrado A Rede;
   - __Resumo:__  Protótipo funcional de uma automação residencial usando Arduino Uno, e uma maquete de residência. O sistema instalado na maquete, é controlada via aplicativo Android. O aplicativo é capaz de aceder e apagar luzes, abrir e fechar o portão.
@@ -47,9 +47,9 @@ Atua no cargo de Programador Júnior Nível 2 na empresa Fotosensores Tecnologia
 
 ---
 
-- __Curso:__ ITJ - Instituto de Tecnologia de Jacareí;
+- __Curso:__ Técnico em Automação Industrial;
 - __Institução:__ ITJ - Instituto de Tecnologia de Jacareí;
-- __Concluído em__: 2015
+- __Período__: Fevereiro 2013 – Dezembro 2015;
 - __Trabalho de Conclusão de Curso:__ :red_square: :blue_square: :green_square:	
   - __Título:__ Esteira Seletora por Cores; 
   - __Resumo:__  Protótipo de uma esteira industrial, responsável por separar objetos conforme sua cor.
