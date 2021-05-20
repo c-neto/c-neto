@@ -49,7 +49,7 @@ Atua no cargo de Programador Júnior Nível 2 na empresa Fotosensores Tecnologia
     <thead>
         <tr>
             <th rowspan="3">
-                <img width="120px" height="120px" src=".img/fatec.png">
+                <img width="160px" height="120px" src=".img/fatec.png">
             </th>
             <th>Tecnólogo em Análise e Desenvolvimento de Sistemas</th>
         </tr>
