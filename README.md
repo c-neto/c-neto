@@ -15,45 +15,92 @@ Atua no cargo de Programador Júnior Nível 2 na empresa Fotosensores Tecnologia
 
 ## Especialidades :nerd_face:	
 
-- Python :snake:;
-- Docker :whale2:;
-- GNU/Linux :penguin: :tophat: (Fedora/CentOS).
-
-## Interesses e Estudos Atuais :man_technologist:
-
-- Programação Funcional;
+- Python;
+- Ansible;
+- Docker;
+- GNU/Linux;
 - IaC;
 - DevOps.
 
 ## Formação :man_student:	
 
-- __Curso:__ Tecnólogo em Análise e Desenvolvimento de Sistemas;
-- __Instituição:__ FATEC São José dos Campos - Prof. Jessen Vidal;
-- __Período:__ Julho 2016 – Julho 2019;
-- __Trabalho de Graduação:__ :video_camera:	:rotating_light: :vertical_traffic_light:	
-  - __Título:__ Mapbix, Sistema de Monitoramento de Equipamentos Fiscalizadores de Trânsito;
-  - __Resumo:__ Sistema de monitoramento de equipamentos fiscalizadores de trânsito, que exibe em tempo real, os dados de monitoramento de uma rede de mais de 200 equipamentos. O projeto recebeu 9.7 como nota final pela banca avaliadora. Atua em ambiente empresarial, com nível de aceitação elevado de seus usuários e com colaboaração direta na manutenabilidade da rede;
-- __Link para o Projeto:__ Código Proprietário :no_entry_sign:.
-
---- 
-
-- __Curso:__ Técnico em Redes de Computadores;
-- __Instituição:__ ETEC Cônego José Bento;
-- __Período:__ Fevereiro 2016 – Julho 2017;
-- __Trabalho de Conclusão de Curso:__ :house:	:calling:
-  - __Título:__ Sistema De Automação Residencial Integrado A Rede;
-  - __Resumo:__  Protótipo funcional de uma automação residencial usando Arduino Uno, e uma maquete de residência. O sistema instalado na maquete, é controlada via aplicativo Android. O aplicativo é capaz de acender e apagar luzes, abrir e fechar um portão.
-- __Link para o Projeto:__ https://github.com/augustoliks/Casa-Inteligente-Arduino
+<table>
+    <thead>
+        <tr>
+            <th rowspan="3">
+                <a href="https://api.badgr.io/public/assertions/teqZe_UcTUWpEOUNjikhbQ?identity__email=carlos.neto.dev%40gmail.com">
+                    <img width="120px" height="120px" src="https://api.badgr.io/public/assertions/teqZe_UcTUWpEOUNjikhbQ/image">
+                </a>
+            </th>
+            <th>GitLab Certified Associate</th>
+        </tr>
+        <tr>
+            <td>Gitlab</td>
+        </tr>
+        <tr>
+            <td>Concluído em Maio de 2021</td>
+        </tr>
+    </thead>
+</table>
 
 ---
 
-- __Curso:__ Técnico em Automação Industrial;
-- __Instituição:__ ITJ - Instituto de Tecnologia de Jacareí;
-- __Período__: Fevereiro 2013 – Dezembro 2015;
-- __Trabalho de Conclusão de Curso:__ :red_square: :blue_square: :green_square:	
-  - __Título:__ Esteira Seletora por Cores; 
-  - __Resumo:__  Protótipo de uma esteira industrial, responsável por separar objetos conforme sua cor.
-- __Link para o Projeto:__ https://github.com/augustoliks/esteira-seletora-por-cores
+<table>
+    <thead>
+        <tr>
+            <th rowspan="3">
+                <img width="120px" height="120px" src=".img/fatec.png">
+            </th>
+            <th>Tecnólogo em Análise e Desenvolvimento de Sistemas</th>
+        </tr>
+        <tr>
+            <td>FATEC São José dos Campos - Prof. Jessen Vidal</td>
+        </tr>
+        <tr>
+            <td>Concluído em Julho 2019</td>
+        </tr>
+    </thead>
+</table>
+
+--- 
+
+<table>
+    <thead>
+        <tr>
+            <th rowspan="3">
+                <img width="120px" height="120px" src=".img/etec.png">
+            </th>
+            <th>Técnico em Redes de Computadores</th>
+        </tr>
+        <tr>
+            <td>ETEC Cônego José Bento</td>
+        </tr>
+        <tr>
+            <td>Concluído em Julho 2017</td>
+        </tr>
+    </thead>
+</table>
+
+---
+
+<table>
+    <thead>
+        <tr>
+            <th rowspan="3">
+                <img width="120px" height="120px" src=".img/itj.png">
+            </th>
+            <th>Técnico em Automação Industrial</th>
+        </tr>
+        <tr>
+            <td>ITJ - Instituto de Tecnologia de Jacareí</td>
+        </tr>
+        <tr>
+            <td>Concluído em Dezembro 2015</td>
+        </tr>
+    </thead>
+</table>
+
+---
 
 ## Leituras :open_book:
 
@@ -64,4 +111,4 @@ Brian K. Jones](https://books.google.com.br/books/about/Python_Cookbook.html?id=
 
 ---
 
-> Última Alteração: 22/03/2021
+> Última Alteração: 20/05/2021
