@@ -23,7 +23,7 @@ Programador Júnior Nível 2 na empresa Fotosensores Tecnologia Eletrônica LTDA
             <th>GitLab Certified Associate</th>
         </tr>
         <tr>
-            <td>Gitlab</td>
+            <td>Gitlab Inc.</td>
         </tr>
         <tr>
             <td>Concluído em Maio de 2021</td>
