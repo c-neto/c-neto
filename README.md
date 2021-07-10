@@ -1,92 +1,39 @@
 # Carlos Neto | <a href="https://github.com/augustoliks/cv-latex/raw/main/cv-dev-carlos-augusto-santos-neto.pdf" target="_blank"> <img alt="linkedin" src="https://img.shields.io/badge/Curriculum Vitae-0077B5?style=for-the-badge&logoColor=green"> </a> <a href="mailto:carlos.neto.dev@gmail.com" target="_blank"> <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://t.me/augusto_liks" target="_blank"> <img alt="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> </a> <a href="https://www.linkedin.com/in/c-neto/" target="_blank"> <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 
-Programador Júnior Nível 2 na empresa Fotosensores Tecnologia Eletrônica LTDA (Mobilidade Urbana). Suas principais especialidades são:
+Sou Programador Júnior na empresa Fotosensores LTDA, onde as minhas principais funções são a análise e desenvolvimento de integrações entre sistemas, padronização de documentações, automação e provisionamento de tarefas e sistemas. As principais ferramentas que eu utilizo para desempenhar os itens citados, em sua maior parte são: Python; Sphinx, Ansible; Docker; NGINX e GNU/Linux.
 
-- Python;
-- Ansible;
-- Docker;
-- NGINX;
-- GNU/Linux;
-- IaC;
-- DevOps.
+## Formação 👨‍🎓
 
-## Formação :man_student:	
-
-<table>
-    <thead>
-        <tr>
-            <th rowspan="3">
-                <a href="https://api.badgr.io/public/assertions/teqZe_UcTUWpEOUNjikhbQ?identity__email=carlos.neto.dev%40gmail.com">
-                    <img width="120px" height="120px" src="https://api.badgr.io/public/assertions/teqZe_UcTUWpEOUNjikhbQ/image">
-                </a>
-            </th>
-            <th>GitLab Certified Associate</th>
-        </tr>
-        <tr>
-            <td>Gitlab Inc.</td>
-        </tr>
-        <tr>
-            <td>Concluído em Maio de 2021</td>
-        </tr>
-    </thead>
-</table>
-
----
-
-<table>
-    <thead>
-        <tr>
-            <th rowspan="3">
-                <img width="120px" height="120px" src=".img/fatec.jpg">
-            </th>
-            <th>Tecnólogo em Análise e Desenvolvimento de Sistemas</th>
-        </tr>
-        <tr>
-            <td>FATEC São José dos Campos - Prof. Jessen Vidal</td>
-        </tr>
-        <tr>
-            <td>Concluído em Julho 2019</td>
-        </tr>
-    </thead>
+<table cellspacing="0" cellpadding="0">
+    <td> </a><img width="40px" height="40px" src=".img/fatec.jpg"> </td>
+    <td> <img width="40px" height="40px" src=".img/etec.png"> </td>
+    <td> 
+        <a href="https://api.badgr.io/public/assertions/teqZe_UcTUWpEOUNjikhbQ?identity__email=carlos.neto.dev%40gmail.com">
+            <img width="40px" height="40px" src="https://api.badgr.io/public/assertions/teqZe_UcTUWpEOUNjikhbQ/image">
+        </a>
+    </td>
+    <td> <img width="40px" height="40px" src=".img/itj.png"> </td>
 </table>
 
 --- 
 
-<table>
-    <thead>
-        <tr>
-            <th rowspan="3">
-                <img width="120px" height="120px" src=".img/etec.png">
-            </th>
-            <th>Técnico em Redes de Computadores</th>
-        </tr>
-        <tr>
-            <td>ETEC Cônego José Bento</td>
-        </tr>
-        <tr>
-            <td>Concluído em Julho 2017</td>
-        </tr>
-    </thead>
-</table>
+- __GitLab Certified Associate | Gitlab Inc.__
+> _Concluído em Maio de 2021_
 
 ---
 
-<table>
-    <thead>
-        <tr>
-            <th rowspan="3">
-                <img width="120px" height="120px" src=".img/itj.png">
-            </th>
-            <th>Técnico em Automação Industrial</th>
-        </tr>
-        <tr>
-            <td>ITJ - Instituto de Tecnologia de Jacareí</td>
-        </tr>
-        <tr>
-            <td>Concluído em Dezembro 2015</td>
-        </tr>
-    </thead>
-</table>
+- __Tecnólogo em Análise e Desenvolvimento de Sistemas | FATEC São José dos Campos - Prof. Jessen Vidal__
+> _Concluído em Julho 2019_
+
+---
+
+- __Técnico em Redes de Computadores | ETEC Cônego José Bento__
+> _Concluído em Julho 2017_
+
+---
+
+- __Técnico em Automação Industrial | ITJ - Instituto de Tecnologia de Jacareí__
+> _Concluído em Dezembro 2015_
 
 ---
 
@@ -99,4 +46,4 @@ Brian K. Jones](https://books.google.com.br/books/about/Python_Cookbook.html?id=
 
 ---
 
-> Última Alteração: 20/05/2021
+> Última Alteração: 10/07/2021
