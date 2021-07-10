@@ -39,8 +39,6 @@ Sou Programador Júnior na empresa Fotosensores LTDA, onde as minhas principais 
 - __Técnico em Automação Industrial | ITJ - Instituto de Tecnologia de Jacareí__
 > _Concluído em Dezembro 2015_
 
----
-
 ## Leituras :open_book:
 
 - [Python Fluente: Programação Clara, Concisa e Eficaz - Luciano Ramalho](https://www.amazon.com.br/Python-Fluente-Programa%C3%A7%C3%A3o-Concisa-Eficaz/dp/857522462X#:~:text=O%20autor%20Luciano%20Ramalho%20apresenta,mais%20leg%C3%ADvel%20ao%20mesmo%20tempo.)
