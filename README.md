@@ -9,7 +9,7 @@ Sou Programador Júnior na empresa Fotosensores LTDA, onde as minhas principais 
 ## Formação 👨‍🎓
 
 <table cellspacing="0" cellpadding="0">
-    <td> </a><img width="40px" height="40px" src=".img/fatec.png"> </td>
+    <td> </a><img width="40px" height="40px" src=".img/_fatec.png"> </td>
     <td> <img width="40px" height="40px" src=".img/etec.png"> </td>
     <td> 
         <a href="https://api.badgr.io/public/assertions/teqZe_UcTUWpEOUNjikhbQ?identity__email=carlos.neto.dev%40gmail.com">
