@@ -6,18 +6,30 @@
 
 Sou Programador Júnior na empresa Fotosensores LTDA, onde as minhas principais funções são: análise e desenvolvimento de integrações entre sistemas; padronização de documentações; automação de tarefas e provisionamento de sistemas. As principais ferramentas que eu utilizo para desempenhar os itens citados, em sua maior parte são: Python; Sphinx, MkDocs, Ansible; Docker; NGINX e GNU/Linux.
 
+<!-- 
+## Tecnologias
+
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/go/go-original.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/nginx/nginx-original.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/redis/redis-original.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg">
+</div>
+ -->
+
 ## Formação 👨‍🎓
 
-<table cellspacing="0" cellpadding="0">
-    <td> </a><img width="40px" height="40px" src=".img/fatec.png"> </td>
-    <td> <img width="40px" height="40px" src=".img/etec.png"> </td>
-    <td> 
-        <a href="https://api.badgr.io/public/assertions/teqZe_UcTUWpEOUNjikhbQ?identity__email=carlos.neto.dev%40gmail.com">
-            <img width="40px" height="40px" src="https://api.badgr.io/public/assertions/teqZe_UcTUWpEOUNjikhbQ/image">
-        </a>
-    </td>
-    <td> <img width="40px" height="40px" src=".img/itj.png"> </td>
-</table>
+<div style="display: inline_block"><br>
+  </a><img width="40px" height="40px" src=".img/fatec.png">
+  <img width="40px" height="40px" src=".img/etec.png"> </td>
+  <a href="https://api.badgr.io/public/assertions/teqZe_UcTUWpEOUNjikhbQ?identity__email=carlos.neto.dev%40gmail.com">
+     <img width="40px" height="40px" src="https://api.badgr.io/public/assertions/teqZe_UcTUWpEOUNjikhbQ/image">
+  </a>
+  <img width="40px" height="40px" src=".img/itj.png">
+</div>
 
 --- 
 
