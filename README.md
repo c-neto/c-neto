@@ -4,11 +4,8 @@
 
 ---
 
-Sou Programador Júnior na empresa Fotosensores LTDA, onde as minhas principais funções são: análise e desenvolvimento de integrações entre sistemas; padronização de documentações; automação de tarefas e provisionamento de sistemas. As principais ferramentas que eu utilizo para desempenhar os itens citados, em sua maior parte são: Python; Sphinx, MkDocs, Ansible; Docker; NGINX e GNU/Linux.
-
+Sou Programador Júnior na empresa Fotosensores LTDA, onde as minhas principais funções são: análise e desenvolvimento de integrações entre sistemas; padronização de documentações; automação de tarefas e provisionamento de sistemas. As principais ferramentas que eu utilizo para desempenhar os itens citados, em sua maior parte são: Python; Sphinx, MkDocs, Gitlab; > Ansible; Docker; NGINX e GNU/Linux.
 <!-- 
-## Tecnologias
-
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/go/go-original.svg">
@@ -17,9 +14,11 @@ Sou Programador Júnior na empresa Fotosensores LTDA, onde as minhas principais 
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" height="30" width="40" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/ansible.svg">
+  <img align="center" height="30" width="40" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/gitlab.svg">
 </div>
- -->
 
+ -->
 ## Formação 👨‍🎓
 
 <div style="display: inline_block"><br>
