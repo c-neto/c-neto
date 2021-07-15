@@ -60,4 +60,4 @@ Brian K. Jones](https://books.google.com.br/books/about/Python_Cookbook.html?id=
 
 ---
 
-> Última Alteração: 10/07/2021
+> Última Alteração: 15/07/2021
