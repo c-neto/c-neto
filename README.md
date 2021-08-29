@@ -19,7 +19,7 @@ Sou Programador Júnior na empresa Fotosensores LTDA, onde as minhas principais 
   <img align="center" height="30" width="40" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/gitlab.svg">
 </div>
 -->
- 
+<!--  
 ## Formação 👨‍🎓
 
 <div style="display: inline_block"><br>
@@ -57,7 +57,8 @@ Sou Programador Júnior na empresa Fotosensores LTDA, onde as minhas principais 
 - [Python Cookiebook - David Beazley,
 Brian K. Jones](https://books.google.com.br/books/about/Python_Cookbook.html?id=yhfdQgq8JF4C&redir_esc=y)
 - [O Guia do Mochileiro Python: Melhores práticas para desenvolvimento - Tanya Schlusser, Kenneth Reitz](https://www.amazon.com.br/Guia-Mochileiro-Python-Melhores-desenvolvimento-ebook/dp/B07QMY2VPL)
-
+ -->
+ 
 ---
 
 > Última Alteração: 15/07/2021
