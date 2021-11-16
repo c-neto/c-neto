@@ -4,7 +4,13 @@
 
 ---
 
-Sou Programador Júnior na empresa Fotosensores LTDA. As minhas principais funções são: análise e desenvolvimento de integrações entre sistemas; padronização de documentações; automação de tarefas e provisionamento de sistemas. As principais ferramentas que eu utilizo para desempenhar os itens citados, em sua maior parte são: Python; Sphinx, MkDocs, Gitlab; Ansible; Docker; NGINX e GNU/Linux.
+Hello! I am Carlos Neto. Currently, i work as a DevOps Analyst. 
+
+I'm adept at _simplicity design_. My mindset is composed of things like :recycle:[_DevOps_](https://pt.wikipedia.org/wiki/DevOps), :lotus_position:[_Zen of Python_](https://www.python.org/dev/peps/pep-0020/) and 💋 [_KISS_](https://en.wikipedia.org/wiki/KISS_principle). 
+
+I am Python Developer, Go enthuasiast, Java analyst and Elixir curiosity.
+
+I like Linux, i enjoy distros based Red Hat family, like Fedora, CentOS and AlmaLinux OS.
 
 <!-- 
 <div style="display: inline_block"><br>
@@ -61,4 +67,4 @@ Brian K. Jones](https://books.google.com.br/books/about/Python_Cookbook.html?id=
  
 ---
 
-> Última Alteração: 15/07/2021
+> Última Alteração: 16/11/2021
