@@ -10,7 +10,7 @@ I'm adept at _simplicity design_. My mindset is composed of things like :recycle
 
 I am Python Developer, Go enthuasiast, Java analyst and Elixir curiosity.
 
-I like Linux, i enjoy distros based Red Hat family, like Fedora, CentOS and AlmaLinux OS.
+I like Linux, i enjoy Red Hat family distros, like Fedora, CentOS and AlmaLinux OS.
 
 <!-- 
 <div style="display: inline_block"><br>
