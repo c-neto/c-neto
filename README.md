@@ -10,8 +10,6 @@ I'm adept at _simplicity design_. My mindset is composed of things like :recycle
 
 I'm Python developer, Go enthuasiast, Java analyst and Elixir curiosity.
 
-I like Linux, specially, Red Hat family distros, like Fedora, CentOS and AlmaLinux OS.
-
 <!-- 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg">
