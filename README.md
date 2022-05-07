@@ -1,6 +1,8 @@
 # Carlos Neto
 
-<a href="https://www.linkedin.com/in/c-neto/" target="_blank"> <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:carlos.neto.dev@gmail.com" target="_blank"> <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://github.com/augustoliks/augustoliks/raw/main/cv-latex/cv-dev-carlos-augusto-santos-neto.pdf" target="_blank"> <img alt="linkedin" src="https://img.shields.io/badge/Curriculum Vitae-0077B5?style=for-the-badge&logoColor=green"> </a> 
+<a href="https://www.linkedin.com/in/c-neto/" target="_blank"> <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:carlos.neto.dev@gmail.com" target="_blank"> <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> 
+
+<!-- <a href="https://www.linkedin.com/in/c-neto/" target="_blank"> <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:carlos.neto.dev@gmail.com" target="_blank"> <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://github.com/augustoliks/augustoliks/raw/main/cv-latex/cv-dev-carlos-augusto-santos-neto.pdf" target="_blank"> <img alt="linkedin" src="https://img.shields.io/badge/Curriculum Vitae-0077B5?style=for-the-badge&logoColor=green"> </a>  -->
 
 ---
 
