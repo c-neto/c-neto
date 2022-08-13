@@ -4,11 +4,11 @@
 
 ---
 
-Hello! I'm Carlos Neto. Currently, i work as a DevOps Engineer. 
+Hello! I'm Carlos Neto. Currently, I work as a DevOps Engineer. 
 
-I'm adept at _simplicity design_. My mindset is composed of things like :recycle:[_DevOps_](https://pt.wikipedia.org/wiki/DevOps), :lotus_position:[_Zen of Python_](https://www.python.org/dev/peps/pep-0020/) and 💋 [_KISS_](https://en.wikipedia.org/wiki/KISS_principle). 
+My mindset is composed of things like :recycle:[_DevOps_](https://pt.wikipedia.org/wiki/DevOps), :lotus_position:[_Zen of Python_](https://www.python.org/dev/peps/pep-0020/) and 💋 [_KISS_](https://en.wikipedia.org/wiki/KISS_principle). 
 
-I'm Python developer, Go enthuasiast, Java analyst, and Elixir curiosity.
+I'm a Python developer, Go enthusiast, Java analyst, and Elixir curiosity.
 
 ---
 
