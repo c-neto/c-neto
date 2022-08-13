@@ -1,8 +1,6 @@
 # Carlos Neto
 
-<a href="https://www.linkedin.com/in/c-neto/" target="_blank"> <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:carlos.neto.dev@gmail.com" target="_blank"> <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> 
-
-<!-- <a href="https://www.linkedin.com/in/c-neto/" target="_blank"> <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:carlos.neto.dev@gmail.com" target="_blank"> <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://github.com/augustoliks/augustoliks/raw/main/cv-latex/cv-dev-carlos-augusto-santos-neto.pdf" target="_blank"> <img alt="linkedin" src="https://img.shields.io/badge/Curriculum Vitae-0077B5?style=for-the-badge&logoColor=green"> </a>  -->
+<a href="https://www.linkedin.com/in/c-neto/" target="_blank"> <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> 
 
 ---
 
@@ -12,59 +10,6 @@ I'm adept at _simplicity design_. My mindset is composed of things like :recycle
 
 I'm Python developer, Go enthuasiast, Java analyst, and Elixir curiosity.
 
-<!-- 
-<div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/go/go-original.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/nginx/nginx-original.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/redis/redis-original.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" height="30" width="40" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/ansible.svg">
-  <img align="center" height="30" width="40" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/gitlab.svg">
-</div>
--->
-<!--  
-## Formação 👨‍🎓
-
-<div style="display: inline_block"><br>
-  </a><img width="40px" height="40px" src=".img/fatec.png">
-  <img width="40px" height="40px" src=".img/etec.png"> </td>
-  <a href="https://api.badgr.io/public/assertions/teqZe_UcTUWpEOUNjikhbQ?identity__email=carlos.neto.dev%40gmail.com">
-     <img width="40px" height="40px" src="https://api.badgr.io/public/assertions/teqZe_UcTUWpEOUNjikhbQ/image">
-  </a>
-  <img width="40px" height="40px" src=".img/itj.png">
-</div>
-
---- 
-
-- __GitLab Certified Associate | Gitlab Inc.__
-> _Concluído em Maio de 2021_
-
 ---
 
-- __Tecnólogo em Análise e Desenvolvimento de Sistemas | FATEC São José dos Campos - Prof. Jessen Vidal__
-> _Concluído em Julho 2019_
-
----
-
-- __Técnico em Redes de Computadores | ETEC Cônego José Bento__
-> _Concluído em Julho 2017_
-
----
-
-- __Técnico em Automação Industrial | ITJ - Instituto de Tecnologia de Jacareí__
-> _Concluído em Dezembro 2015_
-
-## Leituras :open_book:
-
-- [Python Fluente: Programação Clara, Concisa e Eficaz - Luciano Ramalho](https://www.amazon.com.br/Python-Fluente-Programa%C3%A7%C3%A3o-Concisa-Eficaz/dp/857522462X#:~:text=O%20autor%20Luciano%20Ramalho%20apresenta,mais%20leg%C3%ADvel%20ao%20mesmo%20tempo.)
-- [Python Cookiebook - David Beazley,
-Brian K. Jones](https://books.google.com.br/books/about/Python_Cookbook.html?id=yhfdQgq8JF4C&redir_esc=y)
-- [O Guia do Mochileiro Python: Melhores práticas para desenvolvimento - Tanya Schlusser, Kenneth Reitz](https://www.amazon.com.br/Guia-Mochileiro-Python-Melhores-desenvolvimento-ebook/dp/B07QMY2VPL)
- -->
- 
----
-
-> _Last Modified: 10/01/2022_
+> _Last Modified: 2022/08/13_
