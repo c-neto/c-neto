@@ -1,157 +1,106 @@
-% Depending on your tastes, you may want to make fonts of itemize environments slightly smaller
-% \AtBeginEnvironment{itemize}{\small}
+\cvsection{Education}
 
-
-%% Provide the file name containing the sidebar contents as an optional parameter to \cvsection.
-%% You can always just use \marginpar{...} if you do
-%% not need to align the top of the contents to any
-%% \cvsection title in the "main" bar.
-
-\newcommand{\RNum}[1]{\uppercase\expandafter{\romannumeral #1\relax}}
-%% If you need to pass whatever options to xcolor
-\PassOptionsToPackage{dvipsnames}{xcolor}
-
-%% If you are using \orcid or academicons
-%% icons, make sure you have the academicons 
-%% option here, and compile with XeLaTeX
-%% or LuaLaTeX.
-% \documentclass[10pt,a4paper,academicons]{altacv}
-
-%% Use the "normalphoto" option if you want a normal photo instead of cropped to a circle
-% \documentclass[10pt,a4paper,normalphoto]{altacv}
-
-\documentclass[10pt,a4paper]{altacv}
-%% AltaCV uses the fontawesome and academicon fonts
-%% and packages. 
-%% See texdoc.net/pkg/fontawecome and http://texdoc.net/pkg/academicons for full list of symbols.
-%% 
-%% Compile with LuaLaTeX for best results. If you
-%% want to use XeLaTeX, you may need to install
-%% Academicons.ttf in your operating system's font 
-%% folder.
-
-
-% Change the page layout if you need to
-\geometry{left=1cm,right=9cm,marginparwidth=6.8cm,marginparsep=1.2cm,top=1.25cm,bottom=1.25cm,footskip=2\baselineskip}
-
-% Change the font if you want to.
-
-% If using pdflatex:
-\usepackage[T1]{fontenc}
-\usepackage[utf8]{inputenc}
-\usepackage[default]{lato}
-
-% If using xelatex or lualatex:
-% \setmainfont{Lato}
-
-% Change the colours if you want to
-\definecolor{Navy}{HTML}{000080}
-\definecolor{SlateGrey}{HTML}{2E2E2E}
-\definecolor{LightGrey}{HTML}{444444}
-\colorlet{heading}{Navy}
-\colorlet{accent}{Navy}
-\colorlet{emphasis}{SlateGrey}
-\colorlet{body}{LightGrey}
-
-% Change the bullets for itemize and rating marker
-% for \cvskill if you want to
-\renewcommand{\itemmarker}{{\small\textbullet}}
-\renewcommand{\ratingmarker}{\faCircle}
-%% sample.bib contains your publications
-\addbibresource{sample.bib}
-
-\usepackage[colorlinks]{hyperref}
-
-\begin{document}
-
-\name{Carlos Neto}
-
-\tagline{DEVOPS ENGINEER}
-
-\personalinfo{
-    % \mailaddress{
-    %     \href{mailto:x.dev@gmail.com}
-    %     {x@gmail.com}
-    % }
-    \linkedin{
-        \href{https://www.linkedin.com/in/c-neto/}
-        {https://www.linkedin.com/in/c-neto/}
-    }
-    \github{
-        \href{https://github.com/augustoliks}
-        {https://github.com/augustoliks} 
-    }
-    \location{
-        \href{https://en.wikipedia.org/wiki/Sao_Paulo}
-        {Brazil - São Paulo}
-    }
-}
-
-%% Make the header extend all the way to the right, if you want. 
-\begin{fullwidth}
-    \makecvheader
-\end{fullwidth}
-
-
-\cvsection[page1sidebar]{Personal Summary}
-
-Ownership mindset IT professional, with tech skills in Programming, Documentation, and DevOps.
-
-\bigskip
-
-It is a Python programming specialist, experienced in Amazon Web Services, focused on system provisioning, automation scripts, and managing logs pipelines and observability stacks.
-
-\cvsection[page1sidebar]{Employment History}
-
-\cvevent{DevOps Engineer}{Trustly Inc. | Online Banking Payments}{November 2021 -- Current}{Remote}
-
-DevOps Engineer focused on Cloud programming tasks and log pipelines development. Responsible for automation and Cloud components configuration in a world system-wide online banking platform.
-
-\bigskip
-
-Main tasks carried out:
-
-\bigskip
-
-\begin{itemize}
-    \item Automation scripts with Python and Bash;
-    \item OpenSearch cluster management (RBAC, ISM, templates);
-    \item Logstash log pipelines (Enriching, Grok);
-    \item AWS resources analysis and configuration;
-    \item Knowledge Base documentation.
-\end{itemize}    
+\cvevent{Analisys and Development System (High-Education)} {FATEC - São José dos Campos}{July 2016 -- July 2019}{}
 
 \divider
 
-\cvevent{Software Developer}{Fotosensores | Speed Camera Systems}{April, 2018 -- October, 2021}{On-site}
+\cvevent{Computer Network (Full-Certified)}{ ETEC - Cônego José Bento}{February 2016 -- July 2017}{}
 
-Software Developer focused on In-House infrastructure demands. Responsible for microservices development, system provisioning, and observability in a regional system-wide Speed Camera System.
+\divider
 
-\bigskip
+\cvevent{Industrial Automation (Full-Certified)}{ITJ - Instituto de Tecnologia de Jacareí}{February 2013 -- December 2015}{} 
 
-Main tasks carried out:
-
-\bigskip
+\divider
 
 \begin{itemize}
-    \item Python microservices, scripts, and integrations;
-    \item GitLab CI/CD pipelines;
-    \item Observability and monitoring with Zabbix, Prometheus, and Grafana;
-    \item Linux Servers management and packing (Red Hat based);
-    \item Knowledge Base documentation.
-\end{itemize}
-
-\cvsection[page1sidebar]{Projects}
-
-\begin{itemize}
-    \item \textbf{SFTP Cluster (Trustly Inc.)}: High available SFTP server with users setup provisioned by Ansible and deployment over Kubernetes;
-    \item \textbf{OpenSearch RBAC (Trustly Inc.)}: RBAC roles provisioned by OpenSearch Security Plugin based on Principle of Least Privilege;
-    \item \textbf{Image Transmissions Module (Fotosensores)}: Speed camera systems module to send vehicle images with integrity and cryptography built;
-    \item \textbf{Speed Camera Monitoring System (Fotosensores)}: Web system focused on speed camera system components observability.
+    \item GitLab Certified Associate - Gitlab Inc;
+    \item Python Formation Certified - Alura;
+    \item Fluent Pyhon - Book.
 \end{itemize}
 
 
+\cvsection{Skills}
+
+\begin{itemize}
+    \item Programming
+\end{itemize}
+
+\cvtag{Python}
+\cvtag{Bash}
+
+\divider
+
+\begin{itemize}
+    \item Cloud
+\end{itemize}
+
+\cvtag{AWS}
+
+\divider
+
+\begin{itemize}
+    \item CI/CD and GitOps
+\end{itemize}
+
+\cvtag{GitLab}
+\cvtag{Github}
+\cvtag{TravisCI}
+\cvtag{ArgoCD}
+
+\divider
+
+\begin{itemize}
+    \item Observability and Monitoring
+\end{itemize}
+
+\cvtag{Grafana}
+\cvtag{Zabbix}
+\cvtag{Prometheus}
+\cvtag{Loki}
+\cvtag{Logstash}
+\cvtag{Rsyslog}
+\cvtag{Promtail}
+
+\divider
+
+\begin{itemize}
+    \item Containers
+\end{itemize}
+
+\cvtag{Kubernetes}
+\cvtag{Docker}
+\cvtag{Podman}
+
+\divider
+
+\begin{itemize}
+    \item Infrastructure as a Code
+\end{itemize}
+
+\cvtag{Ansible}
+\cvtag{Terraform}
+
+\divider
+
+\begin{itemize}
+    \item Messaging and Reverse Proxy 
+\end{itemize}
+
+\cvtag{RabbitMQ}
+\cvtag{ZeroMQ}
+\cvtag{Redis}
+\cvtag{NGINX}
+\cvtag{Traefik}
+
+\divider
+
+
+\bigskip
+\bigskip
+\bigskip
+\bigskip
+\bigskip
+\bigskip
 
 
 \clearpage
-\end{document}
