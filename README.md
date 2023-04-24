@@ -8,4 +8,4 @@ Hello! I'm Carlos Neto. Currently, I work as a DevOps Engineer focused in progra
 
 I'm a Python developer, Go enthusiast, Java analyst, and Elixir curiosity.
 
-> _Interests... :recycle:[DevOps](https://pt.wikipedia.org/wiki/DevOps), :lotus_position:[Zen of Python](https://www.python.org/dev/peps/pep-0020/) and 💋 [KISS](https://en.wikipedia.org/wiki/KISS_principle)._
+> _Main interests... :recycle:[DevOps](https://pt.wikipedia.org/wiki/DevOps), :lotus_position:[Zen of Python](https://www.python.org/dev/peps/pep-0020/) 💋 [KISS](https://en.wikipedia.org/wiki/KISS_principle)._
