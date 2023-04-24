@@ -1,0 +1,157 @@
+% Depending on your tastes, you may want to make fonts of itemize environments slightly smaller
+% \AtBeginEnvironment{itemize}{\small}
+
+
+%% Provide the file name containing the sidebar contents as an optional parameter to \cvsection.
+%% You can always just use \marginpar{...} if you do
+%% not need to align the top of the contents to any
+%% \cvsection title in the "main" bar.
+
+\newcommand{\RNum}[1]{\uppercase\expandafter{\romannumeral #1\relax}}
+%% If you need to pass whatever options to xcolor
+\PassOptionsToPackage{dvipsnames}{xcolor}
+
+%% If you are using \orcid or academicons
+%% icons, make sure you have the academicons 
+%% option here, and compile with XeLaTeX
+%% or LuaLaTeX.
+% \documentclass[10pt,a4paper,academicons]{altacv}
+
+%% Use the "normalphoto" option if you want a normal photo instead of cropped to a circle
+% \documentclass[10pt,a4paper,normalphoto]{altacv}
+
+\documentclass[10pt,a4paper]{altacv}
+%% AltaCV uses the fontawesome and academicon fonts
+%% and packages. 
+%% See texdoc.net/pkg/fontawecome and http://texdoc.net/pkg/academicons for full list of symbols.
+%% 
+%% Compile with LuaLaTeX for best results. If you
+%% want to use XeLaTeX, you may need to install
+%% Academicons.ttf in your operating system's font 
+%% folder.
+
+
+% Change the page layout if you need to
+\geometry{left=1cm,right=9cm,marginparwidth=6.8cm,marginparsep=1.2cm,top=1.25cm,bottom=1.25cm,footskip=2\baselineskip}
+
+% Change the font if you want to.
+
+% If using pdflatex:
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[default]{lato}
+
+% If using xelatex or lualatex:
+% \setmainfont{Lato}
+
+% Change the colours if you want to
+\definecolor{Navy}{HTML}{000080}
+\definecolor{SlateGrey}{HTML}{2E2E2E}
+\definecolor{LightGrey}{HTML}{444444}
+\colorlet{heading}{Navy}
+\colorlet{accent}{Navy}
+\colorlet{emphasis}{SlateGrey}
+\colorlet{body}{LightGrey}
+
+% Change the bullets for itemize and rating marker
+% for \cvskill if you want to
+\renewcommand{\itemmarker}{{\small\textbullet}}
+\renewcommand{\ratingmarker}{\faCircle}
+%% sample.bib contains your publications
+\addbibresource{sample.bib}
+
+\usepackage[colorlinks]{hyperref}
+
+\begin{document}
+
+\name{Carlos Neto}
+
+\tagline{DEVOPS ENGINEER}
+
+\personalinfo{
+    \mailaddress{
+        \href{mailto:carlos.neto.dev@gmail.com}
+        {carlos.neto.dev@gmail.com}
+    }
+    \linkedin{
+        \href{https://www.linkedin.com/in/c-neto/}
+        {https://www.linkedin.com/in/c-neto/}
+    }
+    \github{
+        \href{https://github.com/augustoliks}
+        {https://github.com/augustoliks} 
+    }
+    \location{
+        \href{https://en.wikipedia.org/wiki/Sao_Paulo}
+        {Brazil - São Paulo}
+    }
+}
+
+%% Make the header extend all the way to the right, if you want. 
+\begin{fullwidth}
+    \makecvheader
+\end{fullwidth}
+
+
+\cvsection[page1sidebar]{Personal Summary}
+
+Ownership mindset IT professional, with tech skills in Programming, Documentation, and DevOps.
+
+\bigskip
+
+It is a Python programming specialist, with experience in Amazon Web Services, especially in system provisioning, automation scripts, and managing logs pipelines and observability stacks.
+
+\cvsection[page1sidebar]{Employment History}
+
+\cvevent{DevOps Engineer}{Trustly Inc. | Online Banking Payments}{November 2021 -- Current}{Remote}
+
+DevOps Engineer focused on Cloud programming demands. Responsible for automation development and Cloud components configuration in a world system-wide online banking platform.
+
+\bigskip
+
+Tasks Roadmap:
+
+\bigskip
+
+\begin{itemize}
+    \item Automation scripts with Python and Bash;
+    \item OpenSearch Cluster Administration;
+    \item Logstash Log Pipelines;
+    \item AWS Resources Analysis and Configuration;
+    \item Knowledge Base Documentation.
+\end{itemize}    
+
+\divider
+
+\cvevent{Software Developer}{Fotosensores | Speed Camera Systems}{April, 2018 -- October, 2021}{On-site}
+
+Software Developer focused on In-House infrastructure demands. Responsible for microservices development, system provisioning, and observability in a regional system-wide Speed Camera System.
+
+\bigskip
+
+Tasks Roadmap:
+
+\bigskip
+
+\begin{itemize}
+    \item Python Microservices, scripts, and integrations;
+    \item GitLab CI/CD Pipelines;
+    \item Observability and Monitoring with Zabbix, Prometheus, and Grafana;
+    \item Linux Servers administration and packing (CentOs based);
+    \item Knowledge Base Documentation.
+\end{itemize}
+
+\cvsection[page1sidebar]{Projects}
+
+\begin{itemize}
+    \item \textbf{SFTP Cluster (Trustly Inc.)}: High available SFTP Server with users setup provisioned by Ansible and deployed over Kubernetes;
+    \item \textbf{OpenSearch RBAC (Trustly Inc.)}: RBAC roles provisioned by OpenSearch Security Plugin based on Principle of Least Privilege;
+    \item \textbf{Image Transmissions Module (Fotosensores)}: Speed camera systems module to send vehicle images with integrity and cryptography built.
+    \item \textbf{Speed Camera Monitoring System (Fotosensores)}: Web system focused on speed camera system components observability.
+\end{itemize}
+
+
+
+
+\clearpage
+\end{document}
