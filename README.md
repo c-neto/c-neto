@@ -4,7 +4,7 @@
 
 ---
 
-Hello! I'm Carlos Neto. Currently, I work as a DevOps Engineer focused in programming and log pipelines.
+Hello! I'm Carlos Neto. I work as a DevOps Engineer focused on programming and log pipelines.
 
 I'm a Python developer, Go enthusiast, Java analyst, and Elixir curiosity.
 
