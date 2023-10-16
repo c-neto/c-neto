@@ -6,6 +6,4 @@
 
 Hello! I'm Carlos Neto. I work as a DevOps Engineer focused on programming and log pipelines.
 
-I'm a Python developer, Go enthusiast, Java analyst, and Elixir curiosity.
-
-> _Main interests... :recycle:[DevOps](https://pt.wikipedia.org/wiki/DevOps) :lotus_position:[Zen of Python](https://www.python.org/dev/peps/pep-0020/) 💋 [KISS](https://en.wikipedia.org/wiki/KISS_principle)._
+Check my Personal Tech Blog: https://carlosneto.dev
