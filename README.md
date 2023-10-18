@@ -8,4 +8,5 @@ Hello! 😃
 
 I'm a DevOps Engineer with a strong focus on Observability, Integration, Programming, Technical Writing, and Cloud Solutions.
 
-> *__Check my website__: https://carlosneto.dev* 🚀
+> *Check my website: __https://carlosneto.dev__* 🚀
+
