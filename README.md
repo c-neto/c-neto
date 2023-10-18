@@ -4,8 +4,8 @@
 
 ---
 
-Hello, I'm Carlos Neto! 😃
+Hello! 😃
 
 I'm a DevOps Engineer with a strong focus on Observability, Integration, Programming, Technical Writing, and Cloud Solutions.
 
-Check my Personal Tech Blog: https://carlosneto.dev 🚀
+> *__Check my website__: https://carlosneto.dev* 🚀
