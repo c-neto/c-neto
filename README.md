@@ -4,6 +4,8 @@
 
 ---
 
-Hello! I'm Carlos Neto. I work as a DevOps Engineer focused on programming and log pipelines.
+Hello, I'm Carlos Neto! 😃
 
-Check my Personal Tech Blog: https://carlosneto.dev
+I'm a DevOps Engineer with a strong focus on Observability, Integration, Programming, Technical Writing, and Cloud Solutions.
+
+Check my Personal Tech Blog: https://carlosneto.dev 🚀
