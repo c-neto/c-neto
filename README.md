@@ -6,7 +6,9 @@
 
 Hello! 😃
 
-I'm a DevOps Engineer with a strong focus on Observability, Integration, Programming, Technical Writing, and Cloud Solutions.
+I'm Carlos Neto, an IT professional with a focus on DevOps, Programming, and Technical Writing.
+
+Skilled in Python and well-versed with AWS, Kubernetes, OpenSearch, and ELK Stack.
 
 > *Check my website: __https://carlosneto.dev__* 🚀
 
