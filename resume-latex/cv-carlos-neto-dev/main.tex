@@ -1,0 +1,151 @@
+% Depending on your tastes, you may want to make fonts of itemize environments slightly smaller
+% \AtBeginEnvironment{itemize}{\small}
+
+
+%% Provide the file name containing the sidebar contents as an optional parameter to \cvsection.
+%% You can always just use \marginpar{...} if you do
+%% not need to align the top of the contents to any
+%% \cvsection title in the "main" bar.
+
+\newcommand{\RNum}[1]{\uppercase\expandafter{\romannumeral #1\relax}}
+%% If you need to pass whatever options to xcolor
+\PassOptionsToPackage{dvipsnames}{xcolor}
+
+%% If you are using \orcid or academicons
+%% icons, make sure you have the academicons 
+%% option here, and compile with XeLaTeX
+%% or LuaLaTeX.
+% \documentclass[10pt,a4paper,academicons]{altacv}
+
+%% Use the "normalphoto" option if you want a normal photo instead of cropped to a circle
+% \documentclass[10pt,a4paper,normalphoto]{altacv}
+
+\documentclass[10pt,a4paper]{altacv}
+%% AltaCV uses the fontawesome and academicon fonts
+%% and packages. 
+%% See texdoc.net/pkg/fontawecome and http://texdoc.net/pkg/academicons for full list of symbols.
+%% 
+%% Compile with LuaLaTeX for best results. If you
+%% want to use XeLaTeX, you may need to install
+%% Academicons.ttf in your operating system's font 
+%% folder.
+
+
+% Change the page layout if you need to
+\geometry{left=1cm,right=9cm,marginparwidth=6.8cm,marginparsep=1.2cm,top=1.25cm,bottom=1.25cm,footskip=2\baselineskip}
+
+% Change the font if you want to.
+
+% If using pdflatex:
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[default]{lato}
+
+% If using xelatex or lualatex:
+% \setmainfont{Lato}
+
+% Change the colours if you want to
+\definecolor{Navy}{HTML}{000080}
+\definecolor{SlateGrey}{HTML}{2E2E2E}
+\definecolor{LightGrey}{HTML}{444444}
+\colorlet{heading}{Navy}
+\colorlet{accent}{Navy}
+\colorlet{emphasis}{SlateGrey}
+\colorlet{body}{LightGrey}
+
+% Change the bullets for itemize and rating marker
+% for \cvskill if you want to
+\renewcommand{\itemmarker}{{\small\textbullet}}
+\renewcommand{\ratingmarker}{\faCircle}
+%% sample.bib contains your publications
+\addbibresource{sample.bib}
+
+\begin{document}
+
+\name{Carlos Neto}
+
+\tagline{DEVOPS ENGINEER}
+
+\personalinfo{
+    \homepage{
+        \href{https://www.carlosneto.dev/}
+        {\uline{www.carlosneto.dev}}
+    }
+    \linkedin{
+        \href{https://www.linkedin.com/in/c-neto/}
+        {\uline{linkedin.com/in/c-neto/}}
+    }
+    \github{
+        \href{https://github.com/c-neto}
+        {\uline{github.com/c-neto}}
+    }
+    \age{
+        \href{https://www.credly.com/users/c-neto/badges}
+        {\uline{credly.com/c-neto/badges}}
+    }
+    \location{
+        \href{https://en.wikipedia.org/wiki/Sao_Paulo}
+        {\uline{Brazil - São Paulo}}
+    }
+}
+
+%% Make the header extend all the way to the right, if you want. 
+\begin{fullwidth}
+    \makecvheader
+\end{fullwidth}
+
+
+\cvsection[page1sidebar]{Summary}
+
+Dedicated and self-motivated IT professional with a strong commitment to continuous learning and a deep sense of ownership. 
+
+\bigskip
+
+Proficient in a range of technical skills including programming, documentation, and DevOps. Specialized in Python programming and well-versed in Amazon Web Services, with a primary focus on system provisioning, creating automation scripts, and managing log pipelines and observability stacks.
+
+\cvsection[page1sidebar]{Professional Experience}
+
+\cvevent{DevOps Engineer}{\uline{\href{https://us.trustly.com/}{Trustly | Open Banking Platform} } }{November 2021 -- Current}{Remote}
+
+I work on a global Account-to-Account Open Banking System, where my primary responsibilities encompass scripting, cloud component optimization, and log pipeline creation. My core tasks include:
+
+\bigskip
+
+\begin{itemize}
+    \item Crafting automation scripts using Python and Bash.
+    \item Managing a massive OpenSearch cluster, including Cluster configuration, RBAC, and Template tuning.
+    \item Developing and maintaining Logstash log pipelines.
+    \item Optimizing AWS resources focuses on performance and security.
+    \item Kubernetes operating, troubleshooting, and optimization.
+    \item Knowledge Base documentation.
+\end{itemize}
+
+
+\divider
+
+\cvevent{Software Developer}{\uline{\href{http://fotosensores.com/}{Fotosensores | Speed Camera Systems}}}{April, 2018 -- October, 2021}{On-site}
+
+I focus on meeting in-house infrastructure needs, primarily within a regional Speed Camera System. My key responsibilities include:
+
+\bigskip
+
+\begin{itemize}
+    \item Developing Python microservices, scripts, and integrations.
+    \item Managing GitLab CI/CD pipelines.
+    \item Setting up monitoring with Zabbix, Prometheus, and Grafana.
+    \item Developing Log Pipelines with Rsyslog, Loki, and Grafana.
+    \item Handling Linux server and RPM packaging (CentOs-based).
+    \item Maintaining knowledge base documentation.
+\end{itemize}
+
+\cvsection[page1sidebar]{Projects}
+
+\begin{itemize}
+    \item \textbf{SFTP Cluster (Trustly)}: Implemented a highly available SFTP server using Ansible for user setup and Kubernetes for deployment.
+    \item \textbf{OpenSearch Security and Monitoring (Trustly)}: Implemented robust monitoring (Prometheus + Grafana), and security best practices, including the Principle of Least Privilege, and Defense-in-Depth.
+    \item \textbf{Image Transmissions Module (Fotosensores)}: Developed a module for speed camera systems that securely transmits vehicle images with data integrity and cryptography.
+    \item \textbf{Speed Camera Monitoring System (Fotosensores)}: Created a web-based system for monitoring and observing components of the speed camera system.
+\end{itemize}
+
+\clearpage
+\end{document}

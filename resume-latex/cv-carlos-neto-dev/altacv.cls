@@ -258,3 +258,15 @@
   \color{body}
   \raggedright
 }
+
+\usepackage{hyperref}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=blue,
+  urlcolor=blue,
+  citecolor=blue,
+}
+
+\usepackage{ulem}  % Pacote para sublinhar links
+
