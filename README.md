@@ -1,14 +1,10 @@
-# Carlos Neto
+Hello! 😃
 
-<a href="https://www.linkedin.com/in/c-neto/" target="_blank"> <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> 
+I'm Carlos Neto, an IT professional with a focus on DevOps, Programming, and Technical Writing.  I'm skilled in Python and well-versed in AWS, Kubernetes, OpenSearch, and ELK Stack.
+
+It's my space to share my personal projects, studies, and OpenSource contributions 🚀
 
 ---
 
-Hello! 😃
-
-I'm Carlos Neto, an IT professional with a focus on DevOps, Programming, and Technical Writing.
-
-Skilled in Python and well-versed with AWS, Kubernetes, OpenSearch, and ELK Stack.
-
-> *Check my website: __https://carlosneto.dev__* 🚀
-
+My Website: _https://carlosneto.dev_  | My LinkedIn: _https://www.linkedin.com/in/c-neto/_
+:--:|:--:
