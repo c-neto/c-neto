@@ -4,7 +4,4 @@ I'm Carlos Neto, an IT professional with a focus on DevOps, Programming, and Tec
 
 It's my space to share my personal projects, studies, and OpenSource contributions 🚀
 
----
-
-My Website: _https://carlosneto.dev_  | My LinkedIn: _https://www.linkedin.com/in/c-neto/_
-:--:|:--:
+Check my website about my experiences in the realm of DevOps: 🔗 _https://carlosneto.dev_
