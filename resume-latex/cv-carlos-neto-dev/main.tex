@@ -41,6 +41,9 @@
 \usepackage[utf8]{inputenc}
 \usepackage[default]{lato}
 
+
+\setlength{\bigskipamount}{4pt} 
+
 % If using xelatex or lualatex:
 % \setmainfont{Lato}
 
@@ -94,25 +97,35 @@
     \makecvheader
 \end{fullwidth}
 
+\bigskip
 
-\cvsection[page1sidebar]{Personal Summary}
 
-Self-motivated IT professional with experience in high-availability systems for Open Banking and IoT platforms. Specializes in Python programming, AWS, log analytics pipelines, OpenSearch, and Kubernetes workload management.
+\cvsection[page1sidebar]{PROFESSIONAL PROFILE}
+
+Self-motivated IT professional with a strong sense of \textbf{accountability} and \textbf{ownership}, recognized for \textbf{high performance} and \textbf{documentation}.
 
 \bigskip
 
-Experienced in technical documentation and managing a \href{https://www.carlosneto.dev/}{\uline{blog}} that shares insights and solutions on DevOps practices.
+Experienced in high availability and fault-tolerant systems, particularly within Open Banking platforms and IoT environments. Specializes in Python, OpenSearch, AWS, and Kubernetes workload management.
+
+\bigskip
+
+Technical writer with \href{https://carlosneto.dev/whoami/#opensource-contributions}{\uline{OpenSource contributions}} in the official documentation for OpenSearch, External Secrets Operator, and OpenCTI. Maintains the \href{https://www.carlosneto.dev/}{\uline{www.carlosneto.dev}} blog, sharing insights and solutions on DevOps practices.
+
+
+\bigskip
+\bigskip
 
 \cvsection[page1sidebar]{Professional Experience}
 
 \cvevent{DevOps Engineer}{\uline{\href{https://us.trustly.com/}{Trustly | Open Banking Platform} } }{November 2021 -- Current}{Remote}
 
-I work on a global Account-to-Account Open Banking System, where my primary responsibilities encompass scripting, cloud component optimization, and log pipeline creation. My core tasks include:
+Works on a global Account-to-Account Open Banking system running in the AWS Cloud. Primary tasks:
 
 \bigskip
 
 \begin{itemize}
-    \item Managing a large self-hosted OpenSearch cluster, including performance tuning, SSO, RBAC, ISM policies, monitoring, and template optimization.
+    \item Managing a large self-hosted OpenSearch cluster, including performance tuning, SAML SSO, RBAC, ISM policies, monitoring, and template optimization.
     \item Developing automation scripts and CLI with Python and Bash.
     \item Creating log analytics pipelines (Fluentbit + Logstash + OpenSearch).
     \item Migrating Kubernetes applications to Helm charts.
@@ -121,12 +134,11 @@ I work on a global Account-to-Account Open Banking System, where my primary resp
     \item Writing and maintaining Knowledge Base documentation.
 \end{itemize}
 
-
 \divider
 
 \cvevent{Software Developer}{\uline{\href{http://fotosensores.com/}{Fotosensores | Speed Camera Systems}}}{April, 2018 -- October, 2021}{On-site}
 
-I focus on meeting in-house infrastructure needs, primarily within a regional Speed Camera System. My key responsibilities include:
+Worked on a regional Speed Camera IoT system running on self-hosted infrastructure. Primary tasks:
 
 \bigskip
 
@@ -139,16 +151,18 @@ I focus on meeting in-house infrastructure needs, primarily within a regional Sp
     \item Writing and maintaining Knowledge Base documentation.  
 \end{itemize}
 
-
-
+\bigskip
+\bigskip
+s
 \cvsection[page1sidebar]{Projects}
 
 \begin{itemize}
-    \item \textbf{OpenSearch Tuning (Trustly)}: Implemented Least Privilege, Defense-in-Depth, and Observability; optimized index templates, ISM policies, and cluster configurations.
-    \item \textbf{Log Analytics (Trustly)}: Built log ingestion pipelines (Fluentbit + Logstash + OpenSearch).
-    \item \textbf{SFTP Cluster (Trustly)}: Developed a highly available SFTP server with fault tolerance across multiple AZs (Ansible + Kubernetes).
-    \item \textbf{Speed Camera Monitoring System (Fotosensores)}: Delivered a web-based system to monitor and observe speed camera components (Ansible + Flask + Grafana + Loki).
+    \item \textbf{OpenSearch Tuning (Trustly)}: Implemented RBAC security practices, observability, and optimized index templates and ISM policies.
+    \item \textbf{Log Analytics (Trustly)}: Built log ingestion pipelines for applications running on Kubernetes (Fluentbit + Logstash + OpenSearch).
+    \item \textbf{SFTP Cluster (Trustly)}: Developed a highly available SFTP server with fault tolerance across multiple AZs (Kubernetes + Ansible).
+    \item \textbf{Speed Camera Monitoring (Fotosensores)}: Developed a web system for monitoring speed camera components (Grafana + Zabbix + Flask).
 \end{itemize}
+
 
 \clearpage
 \end{document}
