@@ -1,54 +1,10 @@
-% Depending on your tastes, you may want to make fonts of itemize environments slightly smaller
-% \AtBeginEnvironment{itemize}{\small}
-
-
-%% Provide the file name containing the sidebar contents as an optional parameter to \cvsection.
-%% You can always just use \marginpar{...} if you do
-%% not need to align the top of the contents to any
-%% \cvsection title in the "main" bar.
-
 \newcommand{\RNum}[1]{\uppercase\expandafter{\romannumeral #1\relax}}
-%% If you need to pass whatever options to xcolor
-\PassOptionsToPackage{dvipsnames}{xcolor}
-
-%% If you are using \orcid or academicons
-%% icons, make sure you have the academicons 
-%% option here, and compile with XeLaTeX
-%% or LuaLaTeX.
-% \documentclass[10pt,a4paper,academicons]{altacv}
-
-%% Use the "normalphoto" option if you want a normal photo instead of cropped to a circle
-% \documentclass[10pt,a4paper,normalphoto]{altacv}
-
 \documentclass[10pt,a4paper]{altacv}
-%% AltaCV uses the fontawesome and academicon fonts
-%% and packages. 
-%% See texdoc.net/pkg/fontawecome and http://texdoc.net/pkg/academicons for full list of symbols.
-%% 
-%% Compile with LuaLaTeX for best results. If you
-%% want to use XeLaTeX, you may need to install
-%% Academicons.ttf in your operating system's font 
-%% folder.
-
-
-% Change the page layout if you need to
-\geometry{left=1cm,right=9cm,marginparwidth=6.8cm,marginparsep=1.2cm,top=1.25cm,bottom=1.25cm,footskip=2\baselineskip}
-
-% Change the font if you want to.
-
-% If using pdflatex:
-\usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 \usepackage[default]{lato}
 
-
 \setlength{\bigskipamount}{4pt} 
 
-% If using xelatex or lualatex:
-% \setmainfont{Lato}
-
-% Change the colours if you want to
-\definecolor{Navy}{HTML}{000080}
 \definecolor{SlateGrey}{HTML}{2E2E2E}
 \definecolor{LightGrey}{HTML}{444444}
 \colorlet{heading}{Navy}
@@ -56,12 +12,7 @@
 \colorlet{emphasis}{SlateGrey}
 \colorlet{body}{LightGrey}
 
-% Change the bullets for itemize and rating marker
-% for \cvskill if you want to
-\renewcommand{\itemmarker}{{\small\textbullet}}
 \renewcommand{\ratingmarker}{\faCircle}
-%% sample.bib contains your publications
-\addbibresource{sample.bib}
 
 \begin{document}
 
@@ -92,8 +43,6 @@
     }
 }
 
-%% Make the header extend all the way to the right, if you want. 
-\begin{fullwidth}
     \makecvheader
 \end{fullwidth}
 
@@ -102,18 +51,13 @@
 
 \cvsection[page1sidebar]{PROFESSIONAL PROFILE}
 
-Self-motivated professional with a strong sense of \textbf{accountability} and \textbf{ownership}, recognized for \textbf{high performance} and \textbf{documentation} skills.
+DevOps engineer with more +8 years of experience in fault tolerance systems. Strong sense of ownership and continous learning with several certifications including CNCF Kubestronaut and AWS Solutions Architect.
 
-\bigskip
+Publicly recognized about high performance, im  delivery performance in every company I have worked for. Am I engineer the team reach out when no one knows where to begin, delivering robust, well-documented solutions and managing my work independently without needing supervision.
 
-% Experienced in high availability and fault-tolerant systems, particularly within Open Banking platforms and IoT environments. 
+Specialized with Kubernetes, AWS, OpenSearch/ELK and programming. 
 
-DevOps Engineer with \textbf{programming} background and expertise in observability, focusing on log analytics. Specializes in Python, Fluentbit, Logstash, OpenSearch, AWS, and Kubernetes workload management.
-
-\bigskip
-
-Technical writer with \href{https://carlosneto.dev/whoami/#opensource-contributions}{\uline{OpenSource contributions}} in the official documentation for OpenSearch, External Secrets Operator, and OpenCTI. Maintains the \href{https://www.carlosneto.dev/}{\uline{www.carlosneto.dev}} blog, sharing insights and solutions on DevOps practices.
-
+I have strong critical sense and specialized experience as a technical writer (even before AI). I have habilities to understand that how to create a robust knowledge base without AI Sloping. I have \href{https://carlosneto.dev/whoami/#opensource-contributions}{\uline{contributions}} in the documetntation of the some big open-source projects like OpenSearch, External Secrets Operator, and OpenCTI. Maintains the \href{https://www.carlosneto.dev/}{\uline{www.carlosneto.dev}} blog, sharing personal insights and solutions on DevOps practices.
 
 \bigskip
 \bigskip
