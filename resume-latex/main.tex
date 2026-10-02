@@ -1,0 +1,233 @@
+\newcommand{\RNum}[1]{\uppercase\expandafter{\romannumeral #1\relax}}
+\PassOptionsToPackage{dvipsnames}{xcolor}
+
+\documentclass[10pt,a4paper]{altacv}
+
+\geometry{
+  left=1.5cm,
+  right=1.5cm,
+  top=1.25cm,
+  bottom=1.25cm,
+  footskip=2\baselineskip
+}
+
+
+% If using pdflatex:
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[default]{lato}
+\usepackage{xcolor}
+\usepackage{xparse}
+
+\setlength{\bigskipamount}{4pt} 
+
+\definecolor{Navy}{HTML}{000080}
+\definecolor{SlateGrey}{HTML}{2E2E2E}
+\definecolor{LightGrey}{HTML}{444444}
+\colorlet{heading}{Navy}
+\colorlet{accent}{Navy}
+\colorlet{emphasis}{SlateGrey}
+\colorlet{body}{LightGrey}
+
+
+
+\renewcommand{\itemmarker}{{\small\textbullet}}
+\renewcommand{\ratingmarker}{\faCircle}
+\addbibresource{sample.bib}
+
+\begin{document}
+
+
+\name{CARLOS NETO | DevOps Engineer}
+
+\personalinfo{
+    \linkedin{
+        \href{https://www.linkedin.com/in/c-neto/}
+        {\uline{linkedin.com/c-neto}}
+    }
+    \age{
+        \href{https://www.credly.com/users/c-neto/badges}
+        {\uline{credly.com/c-neto}}
+    }
+    \homepage{
+        \href{https://www.carlosneto.dev/}
+        {\uline{www.carlosneto.dev}}
+    }
+    \github{
+        \href{https://github.com/c-neto}
+        {\uline{github.com/c-neto}}
+    }
+    \location{
+        \href{https://en.wikipedia.org/wiki/Sao_Paulo}
+        {\uline{Brazil - São Paulo}}
+    }
+}
+
+\makecvheader
+
+
+\bigskip
+\bigskip
+
+\cvsection{PROFESSIONAL PROFILE}
+
+DevOps engineer with 8+ years of experience building highly available and fault-tolerant systems. Specialized in Kubernetes, AWS, and observability at scale (OpenSearch/ELK). Brings a strong programming foundation with solid Python skills and a continuous learning mindset, backed by certifications such as CNCF Kubestronaut and AWS Solutions Architect.
+
+\medskip
+
+Self-managed and resilient, with a strong sense of commitment and ownership, the engineer to look for when a robust and documented solution is required for problems where no one knows where to start.
+
+\medskip
+
+Driven by a strong documentation culture, naturally becomes the Knowledge Base maintainer in every team. Active \href{https://carlosneto.dev/whoami/#opensource-contributions}{contributor} to large open-source projects such as OpenSearch, Fluent Bit, External Secrets Operator, and OpenCTI, and maintainer of the \href{https://www.carlosneto.dev/}{www.carlosneto.dev} blog, sharing insights and solutions on DevOps practices.
+
+\bigskip
+\bigskip
+
+\cvsection{PROFESSIONAL EXPERIENCE}
+
+\medskip
+
+\large{
+    \href{https://us.trustly.com/}
+    {Senior DevOps Engineer | Trustly Inc. (Open Banking Platform)}
+} \hfill \small \faCalendar \ November, 2021 - Current
+
+\bigskip
+\bigskip
+
+I work on a senior DevOps team in a Swedish fintech with 24/7 operations across the USA and Europe. I led complete log analytics projects, from ingestion with Fluent Bit, through enrichment in Logstash, to storage and visualization in OpenSearch.
+
+\medskip
+
+Technical reference in Kubernetes, Helm, Python, and Bash. Responsible for understanding the team's operational needs and turning them into solid conventions, delivered as AI skills and agents for internal code generation grounded in deep hands-on experience.
+
+\medskip
+
+Extensive work with Kubernetes workloads and a technical reference in the company's adoption of Helm, converting several systems from duplicated manifests to Helm Charts. Contributor to the company's internal platform and IaC framework, ensuring the delivery of systems based on GitOps and CI/CD practices.
+
+\medskip
+
+Maintainer and main contributor of the company's internal knowledge base, responsible for gathering information, following long technical discussions, and turning collective knowledge into reference documentation.
+
+\medskip
+
+Technologies: AWS, EKS, Karpenter, Bottlerocket, OpenSearch, Logstash, Fluent Bit, Helm, Argo CD, Terraform, OpenTofu, Terragrunt, Kong, Istio, External Secrets Operator, Cert Manager, GitHub Actions, Python, Bash, Claude, OpenCode,
+
+\medskip
+
+\divider
+
+\large{
+    \href{https://fotosensores.com/}
+    {Python Developer | Fotosensores (IoT Traffic Enforcement System)}
+} \hfill \small \faCalendar \ April, 2018 -- October, 2021
+
+\bigskip
+\bigskip
+
+I worked as a Software Developer focused on infrastructure solutions for a traffic enforcement company operating IoT speed cameras distributed across Brazil. I was involved in the end-to-end solution, from configuring the laser speed cameras to integrating them with the monitoring systems.
+
+\medskip
+
+My main responsibility was the operation's observability stack. I led projects focused on the health monitoring of the speed camera devices, using technologies such as Ansible for remote tooling setup, Rsyslog, Prometheus, Loki, and Grafana. These efforts reduced the Field Service Technicians' operation time by approximately 80\%.
+
+\medskip
+
+I handled Linux server provisioning with Ansible and AWX and the packaging of Python, Java, and Go applications in RPM format. As maintainer and main contributor of the team's knowledge base, I built an internal knowledge repository based on Sphinx, documenting architectures and operational procedures.
+
+\medskip
+
+Technologies: Python, Bash, Zabbix, Prometheus, Grafana, Loki, Rsyslog, RabbitMQ, ZeroMQ, Redis, Ansible, AWX, CentOS, RPM.
+
+\bigskip
+\bigskip
+
+\cvsection{CERTIFICATIONS}
+
+\cvtag{
+    \href{https://www.credly.com/badges/d5a820cc-d6b5-4d0f-96e2-2e1d4713ac99}
+    {CNCF Kubestronaut}
+}
+\cvtag{
+    \href{https://www.credly.com/badges/ecad8714-b51f-4c88-86a2-69c7bda1fd07}
+    {AWS Solutions Architect}
+}
+\cvtag{
+    \href{https://www.credly.com/badges/9f5bb14f-cf60-4da8-87f1-4608c085626c}
+    {CKS: Kubernetes Security Specialist}
+}
+\cvtag{
+    \href{https://www.credly.com/badges/4792cdfb-37fb-41a9-9299-b2b042b1895d}
+    {CKA: Kubernetes Administrator}
+}
+\cvtag{
+    \href{https://www.credly.com/badges/af74eec6-d699-4a9e-b188-fbc08df56b68}
+    {CKAD: Kubernetes Developer}
+}
+\cvtag{
+    \href{https://www.credly.com/badges/dc85dd3e-6c2d-41f1-8390-f7228efedf56}
+    {KCSA: Kubernetes Security}
+}
+\cvtag{
+    \href{https://www.credly.com/badges/b4bdd104-cdf0-47cc-8c1b-d41cf34b826e}
+    {KCNA: Kubernetes and Cloud Native}
+}
+\cvtag{
+    \href{https://www.credly.com/badges/5af86241-13f2-4445-82a3-76277ed99f7c}
+    {ICA: Istio}
+}
+\cvtag{
+    \href{https://www.credly.com/badges/8c4113bb-ab55-4af1-bc28-1e70ab84a045}
+    {KCA: Kyverno}
+}
+\cvtag{
+    \href{https://www.credly.com/badges/9edfc7a3-fd7b-4b97-93c2-8f2cd10977db}
+    {LFCS: Linux}
+}
+\cvtag{
+    \href{https://www.credly.com/badges/7bcb4d1a-b2eb-400f-8e82-84c24ef78239}
+    {PCA: Prometheus}
+}
+\cvtag{
+    \href{https://www.credly.com/badges/749121bc-4b02-4bac-901c-8f579a87e435}
+    {CBA: Backstage}
+}
+\cvtag{
+    \href{https://www.credly.com/badges/13c38585-7f6e-4e06-bac6-65299f9942f2}
+    {CNPA: Cloud Native Platform Engineering}
+}
+\cvtag{
+    \href{https://www.credly.com/badges/b0e75355-614c-49d8-b048-1431f00d91e8}
+    {CAPA: Argo}
+}
+\cvtag{
+    \href{https://www.credly.com/badges/97619949-24d6-45cd-975c-d8b00876a53f}
+    {CGOA: GitOps}
+}
+\cvtag{
+    \href{https://www.credly.com/badges/256d0f72-8e9e-43a6-83bc-90d0fea8b7f8}
+    {GitLab Associate}
+}
+\cvtag{
+    \href{https://www.credly.com/badges/5f35de70-3144-4118-818b-695d54bde985}
+    {GitHub Actions}
+}
+\cvtag{
+    \href{https://www.credly.com/badges/0389a5b8-552d-415c-8fec-eace232eaea1}
+    {AWS Cloud Practitioner}
+}
+
+\bigskip
+\bigskip
+
+\cvsection{EDUCATION}
+
+\href{https://fatecsjc-prd.azurewebsites.net/}{\textbf{Systems Analysis and Development} | FATEC (2016 – 2019)}: Leading public technology college in São Paulo. Awarded for academic excellence as one of only 5 students (out of an entering class of 80) to complete the program without retaking any courses.
+
+\medskip
+
+\href{https://www.cps.sp.gov.br/etecs/etec-conego-jose-bento/}{\textbf{Computer Networks} | ETEC (2016 – 2017)}: Specialized public technical program centered on network architecture and IT infrastructure. Recognized for high performance student with innovative hands-on approach to IoT systems.
+
+\clearpage
+\end{document}

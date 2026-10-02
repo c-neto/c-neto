@@ -1,15 +1,3 @@
-%%%%%%%%%%%%%%%%%
-% This is altacv.cls (v1.1.4, 27 July 2018) written by
-% LianTze Lim (liantze@gmail.com).
-%
-%% It may be distributed and/or modified under the
-%% conditions of the LaTeX Project Public License, either version 1.3
-%% of this license or (at your option) any later version.
-%% The latest version of this license is in
-%%    http://www.latex-project.org/lppl.txt
-%% and version 1.3 or later is part of all distributions of LaTeX
-%% version 2003/12/01 or later.
-%%%%%%%%%%%%%%%%
 \NeedsTeXFormat{LaTeX2e}[1995/12/01]
 %% v1.4: Detect TL2018 to handle accented characters in class information
 \@ifl@t@r\fmtversion{2018/04/01}{\UseRawInputEncoding}{}
@@ -104,10 +92,8 @@
 \newcommand{\makecvheader}{%
   \begingroup
     \ifdef{\@photodiameter}{\begin{minipage}{\dimexpr\linewidth-\@photodiameter-2em}}{}%
-    \raggedright\color{emphasis}%
-    {\Huge\bfseries\MakeUppercase{\@name}\par}
-    \medskip
-        \medskip
+    \centering\color{emphasis}%
+    {\Huge\bfseries{\@name}\par}
     {\large\bfseries\color{accent}\@tagline\par}
     \medskip
     \medskip
@@ -129,8 +115,8 @@
 \newcommand{\cvsection}[2][]{%
   \bigskip%
   \ifstrequal{#1}{}{}{\marginpar{\vspace*{\dimexpr1pt-\baselineskip}\raggedright\input{#1}}}%
-  {\color{heading}\normalsize\bfseries\MakeUppercase{#2}}\\[-1ex]%
-  {\color{heading}\rule{\linewidth}{2pt}\par}\medskip
+  {\color{heading}\normalsize\bfseries{#2}}\\[-1ex]%
+  {\color{heading}\rule{\linewidth}{1pt}\par}\medskip
 }
 
 \newcommand{\cvsubsection}[1]{%
