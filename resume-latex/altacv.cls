@@ -116,7 +116,7 @@
   \bigskip%
   \ifstrequal{#1}{}{}{\marginpar{\vspace*{\dimexpr1pt-\baselineskip}\raggedright\input{#1}}}%
   {\color{heading}\normalsize\bfseries{#2}}\\[-1ex]%
-  {\color{heading}\rule{\linewidth}{1pt}\par}\medskip
+  {\color{heading}\rule{\linewidth}{0.5pt}\par}\medskip
 }
 
 \newcommand{\cvsubsection}[1]{%
