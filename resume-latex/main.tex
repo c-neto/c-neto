@@ -1,4 +1,5 @@
 \newcommand{\RNum}[1]{\uppercase\expandafter{\romannumeral #1\relax}}
+
 \PassOptionsToPackage{dvipsnames}{xcolor}
 
 \documentclass[10pt,a4paper]{altacv}
@@ -10,7 +11,6 @@
   bottom=1.25cm,
   footskip=2\baselineskip
 }
-
 
 % If using pdflatex:
 \usepackage[T1]{fontenc}
@@ -24,19 +24,18 @@
 \definecolor{Navy}{HTML}{000080}
 \definecolor{SlateGrey}{HTML}{2E2E2E}
 \definecolor{LightGrey}{HTML}{444444}
+
 \colorlet{heading}{Navy}
 \colorlet{accent}{Navy}
 \colorlet{emphasis}{SlateGrey}
 \colorlet{body}{LightGrey}
 
-
-
 \renewcommand{\itemmarker}{{\small\textbullet}}
 \renewcommand{\ratingmarker}{\faCircle}
+
 \addbibresource{sample.bib}
 
 \begin{document}
-
 
 \name{CARLOS NETO | DevOps Engineer}
 
@@ -67,21 +66,20 @@
 
 \small
 
-
 \bigskip
 \bigskip
 
 \cvsection{PROFESSIONAL PROFILE}
 
-DevOps engineer with 8+ years of experience building highly available and fault-tolerant systems. Specialized in Kubernetes, AWS, and observability at scale (OpenSearch/ELK). Brings a strong programming foundation with solid Python skills and a continuous learning mindset, backed by certifications such as CNCF Kubestronaut and AWS Solutions Architect.
+DevOps Engineer with 8+ years of experience building highly available and fault-tolerant systems. Specialized in Kubernetes, AWS, and observability at scale (OpenSearch/ELK). Brings a strong programming foundation with solid Python skills and a continuous learning mindset, backed by certifications such as CNCF Kubestronaut and AWS Solutions Architect.
 
 \medskip
 
-Recognized for self-management and a strong sense of commitment and ownership. The engineer to look for when a robust and well-documented solution is required for problems where no one knows where to start.
+Recognized for self-management and a strong sense of commitment and ownership. The engineer to turn to when a robust and well-documented solution is required for problems where no one knows where to start.
 
 \medskip
 
-Driven by a strong documentation culture, naturally becomes the Knowledge Base maintainer in every team. Active open-source contributor with \href{https://carlosneto.dev/whoami/#opensource-contributions}{PRs merged} into large projects including OpenSearch, Fluent Bit, External Secrets Operator, and OpenCTI. Shares personal experiences on the \href{https://www.carlosneto.dev/}{www.carlosneto.dev} blog.
+Driven by a strong documentation culture, naturally becoming the Knowledge Base maintainer in every team. Active open-source contributor with \href{https://carlosneto.dev/whoami/#opensource-contributions}{PRs merged} into large projects including OpenSearch, Fluent Bit, External Secrets Operator, and OpenCTI. Shares personal experiences on the \href{https://www.carlosneto.dev/}{www.carlosneto.dev} blog.
 
 \bigskip
 \bigskip
@@ -89,7 +87,6 @@ Driven by a strong documentation culture, naturally becomes the Knowledge Base m
 \cvsection{PROFESSIONAL EXPERIENCE}
 
 \medskip
-
 
 {\large \href{https://us.trustly.com/}{Senior DevOps Engineer | Trustly Inc. (Open Banking Platform)}} \hfill \faCalendar \ November 2021 -- Present
 
@@ -100,8 +97,7 @@ Work as a Senior DevOps Engineer at a Swedish fintech company, supporting Open B
 
 \medskip
 
-Lead log analytics initiatives, developing ingestion pipelines with Fluent Bit and Logstash and managing a large-scale OpenSearch cluster (30 nodes and more than 100 TB of storage across hot, warm, and searchable tiers) running on Kubernetes. Optimized the cluster for 2K logs per second, with logs available in OpenSearch Dashboards within 5 seconds of application generation. Deep hands-on experience with \href{https://carlosneto.dev/whoami/#opensource-contributions}{open-source contributions} to OpenSearch and Fluent Bit, based on real-world optimization cases.
-
+Lead log analytics initiatives, developing ingestion pipelines with Fluent Bit and Logstash and managing a large-scale OpenSearch cluster (30 nodes and more than 100 TB of storage across hot, warm, and searchable tiers) running on Kubernetes. Responsible for optimizations to support a rate of 2K logs per second, with logs available within 5 seconds. Deep hands-on experience with \href{https://carlosneto.dev/whoami/#opensource-contributions}{open-source contributions} to OpenSearch and Fluent Bit, based on real cases.
 
 \medskip
 
@@ -117,7 +113,7 @@ Contributor to the company's internal platform and IaC framework, ensuring the d
 
 \medskip
 
-Main contributor to the company's Knowledge Base. Documented all operational tasks of the DevOps team by authoring more than 100 Confluence pages. Recognized across the company for attention to detail and maintaining accurate, up-to-date documentation.
+Main contributor to the company's Knowledge Base. Documented all operational tasks of the DevOps team by authoring more than 100 Confluence pages. Recognized across the company for attention to detail and for maintaining accurate, up-to-date documentation.
 
 \medskip
 
@@ -136,11 +132,11 @@ Worked as a Python Developer focused on observability and system integration at 
 
 \medskip
 
-Led the company's observability systems, integrating metrics, alerts, and logs into unified dashboards for the technical maintenance and support team, and improving the company's SLO/SLA performance by 30\%.
+Led the company's observability systems, integrating metrics, alerts, and logs into unified dashboards for the technical maintenance and support team, improving the company's SLO/SLA performance by 30\%.
 
 \medskip
 
-Served as the team's Python technical lead, leading projects for the secure and encrypted transmission of vehicle images to government systems, including \href{https://www.sjc.sp.gov.br/noticias/2026/abril/10/csi-completa-5-anos-com-avancos-ao-combate-ao-crime/}{CSI - Security and Intelligence Center}.
+Python technical lead, responsible for projects involving the secure and encrypted transmission of vehicle images and video to government systems, including one of Brazil's main Smart City as a Service initiatives, the \href{https://www.sjc.sp.gov.br/servicos/protecao-ao-cidadao/csi/}{CSI - Security and Intelligence Center}.
 
 \medskip
 
@@ -224,21 +220,21 @@ Created and maintained the company's internal Knowledge Base using Sphinx, docum
     {GitHub Actions}
 }
 \cvtag{
-    \href{https://www.credly.com/badges/0389a5b8-552d-415c-8fec-eace232eaea1}
+    \href{https://www.credly.com/badges/0389b5-552d-415c-8fec-eace232eaea1}
     {AWS Cloud Practitioner}
 }
 
 \bigskip
 \bigskip
 
-
 \cvsection{EDUCATION}
 
-\href{https://fatecsjc-prd.azurewebsites.net/}{\textbf{Systems Analysis and Development (Higher Education)} | FATEC (2016 – 2019)}: Public technology college located in São Paulo, within the \href{https://pitsjc.org.br/institucional/}{PIT SJC technology hub}. Graduated without failing any courses, ranking among the top students in the class.
+\href{https://fatecsjc-prd.azurewebsites.net/}{\textbf{Systems Analysis and Development (Higher Education)} | FATEC (2016 -- 2019)}: Public technology college located in São Paulo, within the \href{https://pitsjc.org.br/institucional/}{PIT SJC technology hub}. Graduated without failing any courses, ranking among the top students in the class.
 
 \medskip
 
-\href{https://www.cps.sp.gov.br/etecs/etec-conego-jose-bento/}{\textbf{Computer Networks (Technical Course)} | ETEC (2016 – 2017)}: Public technical education institution. Graduated among the top students in the class, recognized for a practical approach and hands-on work with IoT systems.
+\href{https://www.cps.sp.gov.br/etecs/etec-conego-jose-bento/}{\textbf{Computer Networks (Technical Course)} | ETEC (2016 -- 2017)}: Public technical education institution, with a practical curriculum focused on Linux foundation.
 
 \clearpage
+
 \end{document}
