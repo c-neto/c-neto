@@ -20,7 +20,7 @@ jobs:
       - name: Install TeX Live
         run: |
           sudo apt-get update
-          sudo apt-get install --no-install-recommends -y texlive-latex-extra texlive-fonts-extra
+          sudo apt-get install --no-install-recommends -y texlive-latex-extra texlive-fonts-extra texlive-fonts-recommended texlive-bibtex-extra texlive-plain-generic
 
       - name: Build PDF with pdfTeX
         run: pdflatex -file-line-error -interaction=nonstopmode -halt-on-error c-neto-cv.tex
