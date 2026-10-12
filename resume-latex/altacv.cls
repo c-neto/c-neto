@@ -239,10 +239,13 @@
 }
 \newcommand{\addnextpagesidebar}[2][]{\afterpage{\addsidebar[#1]{#2}}}
 
+\usepackage{ragged2e}
+
 \AtBeginDocument{%
   \pagestyle{empty}
   \color{body}
   \raggedright
+  \justifying
 }
 
 \usepackage{hyperref}
@@ -254,5 +257,4 @@
   citecolor=blue,
 }
 
-\usepackage{ulem}  % Pacote para sublinhar links
-
+\usepackage{ulem}

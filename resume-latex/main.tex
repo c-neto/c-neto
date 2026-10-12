@@ -16,7 +16,7 @@
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 \usepackage[default]{lato}
-\usepackage{xcolor}
+\usepackage[dvipsnames]{xcolor}
 \usepackage{xparse}
 
 \setlength{\bigskipamount}{4pt} 
@@ -71,15 +71,15 @@
 
 \cvsection{PROFESSIONAL PROFILE}
 
-DevOps Engineer with 8+ years of experience building highly available and fault-tolerant systems, specializing in Kubernetes, AWS, and observability at scale with OpenSearch and ELK. Strong programming background with solid Python skills and a continuous learning mindset, backed by certifications including CNCF Kubestronaut and AWS Solutions Architect.
+DevOps Engineer with 8+ years of experience building highly available and fault-tolerant systems. Specializing in Kubernetes, AWS, and observability at scale with OpenSearch and ELK. Strong programming background with solid Python and Bash skills. Continuous learning mindset, backed by certifications including CNCF Kubestronaut and AWS Solutions Architect.
 
 \medskip
 
-Known for self-management, ownership, and commitment. The engineer to turn to when robust, easily maintainable, and well-documented solutions are needed for complex problems that lack a clear path forward.
+Known for a strong sense of ownership and delivering reliable, easy-to-operate solutions with solid documentation included. Trusted to tackle complex problems with no clear path forward, conducting research to identify well-founded and sustainable solutions. Recognized by managers as a distinguished professional and a top performer in issue resolution across organizations.
 
 \medskip
 
-Strong advocate for documentation and knowledge sharing, having created and maintained Knowledge Bases across teams. Active open-source contributor, with \href{https://carlosneto.dev/whoami/#opensource-contributions}{PRs merged} into the documentation of projects including OpenSearch, Fluent Bit, External Secrets Operator, and OpenCTI. Also shares technical experiences and lessons learned on the \href{https://www.carlosneto.dev/}{www.carlosneto.dev} blog.
+Driven by a strong documentation culture and knowledge sharing, with experience creating and maintaining Knowledge Bases across teams. Active open-source contributor, with \href{https://carlosneto.dev/whoami/#opensource-contributions}{PRs merged} into the documentation of projects including OpenSearch, Fluent Bit, External Secrets Operator, and OpenCTI. Technical content creator, sharing hands-on experience on the \href{https://www.carlosneto.dev/}{carlosneto.dev} blog.
 
 
 \bigskip
@@ -98,7 +98,7 @@ Work as a Senior DevOps Engineer at a Swedish fintech company, supporting Open B
 
 \medskip
 
-Lead log analytics initiatives, develop ingestion pipelines with Fluent Bit and Logstash, and manage a large-scale OpenSearch cluster (20 nodes, 100 TB of storage, and 450 GB of memory) running on Kubernetes. Optimize ingestion to support 3K to 25K logs per second while maintaining search latency below 10 seconds. Share hands-on experience through \href{https://carlosneto.dev/whoami/#opensource-contributions}{PRs merged} in the official documentation of OpenSearch and Fluent Bit.
+Lead log analytics initiatives using Fluent Bit and Logstash, and manage a large-scale OpenSearch cluster (20 nodes, 100 TB of storage, 450 GB of memory) running on Kubernetes. Responsible for optimizations that increased log ingestion from 5K to 25K logs per second. Implemented fine-grained RBAC with SSO ensuring Principle of least privilege. Converted hands-on experience into open-source contributions, highlighting the \href{https://github.com/opensearch-project/documentation-website/pull/4597}{first description of the Searchable nodes}. Reported bugs fixed by the community, such as the \href{https://github.com/opensearch-project/OpenSearch-Dashboards/issues/2829#issuecomment-1611585079}{Dashboards multi-cluster TLS issue}, and requested implemented features such as \href{https://github.com/fluent/fluent-bit/issues/11457}{Fluent Bit metrics for skipped long lines}.
 
 \medskip
 
@@ -106,15 +106,11 @@ Technical reference for Helm and Python, translating business and operational ne
 
 \medskip
 
-Led the adoption of Helm Charts at the company, establishing authoring conventions and providing team training. Implemented a chart lifecycle process using GitHub Actions to build and publish charts to ECR, with Argo CD managing their deployment.
+Led the adoption of Helm Charts at the company, establishing conventions and providing team training. Contributor to the company's internal platform and IaC framework, ensuring the standardized delivery of systems based on GitOps and CI/CD practices using OpenTofu, GitHub Actions, Terragrunt, Helm, and Argo CD.
 
 \medskip
 
-Contributor to the company's internal Platform and IaC framework, ensuring the delivery of systems based on GitOps and CI/CD practices using OpenTofu, Terragrunt, Helm, and Argo CD.
-
-\medskip
-
-Main contributor to the company's Knowledge Base. Documented all operational tasks of the DevOps team from scratch, authoring more than 100 Confluence pages. Recognized across the company for attention to detail and for maintaining accurate, up-to-date documentation.
+Main contributor to the company's Knowledge Base. Documented all operational tasks of the DevOps team, authoring more than 100 Confluence pages. Recognized across the company for attention to detail and user-friendly documentation writing.
 
 \medskip
 
@@ -133,7 +129,7 @@ Worked as a Python Developer focused on observability and system integration at 
 
 \medskip
 
-Led observability projects using Prometheus, Zabbix, and Grafana. Worked closely with maintenance support teams to understand their needs and create objective dashboards, reducing MTTD and improving SLO/SLA performance by around 30\%.
+Led observability projects using Prometheus, Zabbix, and Grafana. Worked closely with maintenance support teams to understand their needs and create objective dashboards, reducing MTTD and improving SLO/SLA performance by around 20\%.
 
 \medskip
 
@@ -141,7 +137,7 @@ Python tech lead, responsible for projects focused on the secure and encrypted t
 
 \medskip
 
-Created the company's first Knowledge Base from scratch and implemented a Docs as Code framework based on Sphinx.
+Implemented the company's first Knowledge Base by creating a \textit{Docs as Code} framework based on Sphinx.
 
 \medskip
 
@@ -152,6 +148,9 @@ Created the company's first Knowledge Base from scratch and implemented a Docs a
 
 \cvsection{CERTIFICATIONS}
 
+
+{
+    \raggedright
 \cvtag{
     \href{https://www.credly.com/badges/d5a820cc-d6b5-4d0f-96e2-2e1d4713ac99}
     {CNCF Kubestronaut}
@@ -228,6 +227,9 @@ Created the company's first Knowledge Base from scratch and implemented a Docs a
     \href{https://www.oreilly.com/library/view/fluent-python/9781491946237/}
     {Fluent Python (Book)}
 }
+    \par
+}
+
 
 \bigskip
 \bigskip
