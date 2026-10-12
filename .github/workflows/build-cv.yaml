@@ -1,0 +1,38 @@
+name: Build CV
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Install TeX Live
+        run: |
+          sudo apt-get update
+          sudo apt-get install --no-install-recommends -y texlive-latex-extra texlive-fonts-extra
+
+      - name: Build PDF with pdfTeX
+        run: pdflatex -file-line-error -interaction=nonstopmode -halt-on-error c-neto-cv.tex
+
+      - name: Commit updated PDF
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add c-neto-cv.pdf
+          if git diff --cached --quiet; then
+            echo "Generated PDF is unchanged."
+          else
+            git commit -m "Update generated CV PDF"
+            git push
+          fi

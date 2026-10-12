@@ -14,7 +14,7 @@
 
 \LoadClass{extarticle}
 
-\RequirePackage[margin=2cm]{geometry}
+\RequirePackage[margin=0cm]{geometry}
 \RequirePackage{fontawesome}
 
 %% v1.1: Optionally load academicons
@@ -94,7 +94,9 @@
     \ifdef{\@photodiameter}{\begin{minipage}{\dimexpr\linewidth-\@photodiameter-2em}}{}%
     \centering\color{emphasis}%
     {\Huge\bfseries{\@name}\par}
+    \medskip
     {\large\bfseries\color{accent}\@tagline\par}
+    \medskip
     \medskip
     \medskip
     {\footnotesize\bfseries\@personalinfo\par}
