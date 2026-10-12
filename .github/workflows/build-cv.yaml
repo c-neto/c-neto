@@ -4,23 +4,27 @@ on:
   push:
     branches:
       - main
+    paths:
+      - altacv.cls
+      - c-neto-cv.tex
   workflow_dispatch:
 
 permissions:
   contents: write
+  packages: read
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    container:
+      image: ghcr.io/${{ github.repository }}:latest
+      credentials:
+        username: ${{ github.actor }}
+        password: ${{ secrets.GITHUB_TOKEN }}
 
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
-
-      - name: Install TeX Live
-        run: |
-          sudo apt-get update
-          sudo apt-get install --no-install-recommends -y texlive-latex-extra texlive-fonts-extra texlive-fonts-recommended texlive-bibtex-extra texlive-plain-generic
 
       - name: Build PDF with pdfTeX
         run: pdflatex -file-line-error -interaction=nonstopmode -halt-on-error c-neto-cv.tex
