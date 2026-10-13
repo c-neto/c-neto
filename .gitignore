@@ -1,4 +1,5 @@
-c-neto-cv.pdf
+c-neto-cv.*
+!c-neto-cv.tex
 
 .DS_Store
 # Created by https://www.toptal.com/developers/gitignore/api/tex
