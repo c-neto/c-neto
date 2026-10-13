@@ -28,7 +28,7 @@ jobs:
 
       - name: Build PDF with pdfTeX
         working-directory: ${{ github.workspace }}
-        run: pdflatex -file-line-error -interaction=nonstopmode -halt-on-error c-neto-cv.tex
+        run: pdflatex -file-line-error -interaction=nonstopmode -halt-on-error -jobname=carlos-neto-cv c-neto-cv.tex
 
       - name: Upload generated PDF
         uses: actions/upload-artifact@v4
