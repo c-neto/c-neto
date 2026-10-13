@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
   packages: read
 
 jobs:
@@ -30,8 +30,30 @@ jobs:
         working-directory: ${{ github.workspace }}
         run: pdflatex -file-line-error -interaction=nonstopmode -halt-on-error c-neto-cv.tex
 
+      - name: Upload generated PDF
+        uses: actions/upload-artifact@v4
+        with:
+          name: generated-cv
+          path: c-neto-cv.pdf
+          if-no-files-found: error
+
+  commit:
+    runs-on: ubuntu-latest
+    needs: build
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Download generated PDF
+        uses: actions/download-artifact@v4
+        with:
+          name: generated-cv
+          path: .
+
       - name: Commit updated PDF
-        working-directory: ${{ github.workspace }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
