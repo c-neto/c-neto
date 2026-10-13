@@ -34,7 +34,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: generated-cv
-          path: c-neto-cv.pdf
+          path: carlos-neto-cv.pdf
           if-no-files-found: error
 
   commit:
@@ -57,7 +57,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add c-neto-cv.pdf
+          git add carlos-neto-cv.pdf
           if git diff --cached --quiet; then
             echo "Generated PDF is unchanged."
           else
