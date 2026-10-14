@@ -4,4 +4,5 @@ DevOps Engineer specializing in Kubernetes, Cloud Computing, Observability and P
 
 It's my space to share personal projects, studies, and OpenSource contributions 🚀
 
-Check my blog: _https://www.carlosneto.dev_
+- Check my blog: _https://www.carlosneto.dev_
+- You can talk to me in LinkedIn, let's connect: _https://www.linkedin.com/in/c-neto/_

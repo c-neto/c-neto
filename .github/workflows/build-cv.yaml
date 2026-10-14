@@ -1,5 +1,9 @@
 name: Build CV
 
+env:
+  CV_TEX_FILE: c-neto-cv.tex
+  CV_PDF_FILE: carlos-neto-cv.pdf
+
 on:
   push:
     branches:
@@ -7,7 +11,7 @@ on:
     paths:
       - altacv.cls
       - c-neto-cv.tex
-  workflow_dispatch:
+  workflow_dispatch: {}
 
 permissions:
   contents: read
@@ -28,13 +32,13 @@ jobs:
 
       - name: Build PDF with pdfTeX
         working-directory: ${{ github.workspace }}
-        run: pdflatex -file-line-error -interaction=nonstopmode -halt-on-error -jobname=carlos-neto-cv c-neto-cv.tex
+        run: pdflatex -file-line-error -interaction=nonstopmode -halt-on-error "-jobname=${CV_PDF_FILE%.pdf}" "$CV_TEX_FILE"
 
       - name: Upload generated PDF
         uses: actions/upload-artifact@v4
         with:
           name: generated-cv
-          path: carlos-neto-cv.pdf
+          path: ${{ env.CV_PDF_FILE }}
           if-no-files-found: error
 
   commit:
@@ -57,7 +61,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add carlos-neto-cv.pdf
+          git add "$CV_PDF_FILE"
           if git diff --cached --quiet; then
             echo "Generated PDF is unchanged."
           else
