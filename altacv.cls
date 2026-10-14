@@ -99,7 +99,7 @@
     \medskip
     \medskip
     \medskip
-    {\footnotesize\bfseries\@personalinfo\par}
+    {\footnotesize\@personalinfo\par}
     \ifdef{\@photodiameter}{%
     \end{minipage}\hfill%
     \begin{minipage}{\@photodiameter}
